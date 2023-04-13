@@ -11,9 +11,9 @@ const Bird = ({ id, name, weight, image }) => {
   );
 };
 
-const BirdList = ({ birds, setBirds }) => {
+const BirdList = ({ birds, setBirds, group}) => {
   return (
-    <ReactSortable list={birds} setList={setBirds}>
+    <ReactSortable list={birds} setList={setBirds} group={group}>
       {birds.map((bird) => (
         <Bird
           key={bird.id}
