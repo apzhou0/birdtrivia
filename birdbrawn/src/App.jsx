@@ -1,14 +1,14 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import React from 'react'
 import hum from './assets/images/hum.png'
 import './App.css'
+import BirdList from './components/Bird.jsx'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = React.useState(0)
 
   return (
     <div className="App">
+      <BirdList />
     </div>
   )
 }
