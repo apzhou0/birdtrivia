@@ -57,15 +57,15 @@ export default function App() {
 
   return (
     <div className="App">
-      <img className="sparrowImg" src={sparrow} style={{opacity: mistakeCount/2 > 0 ? 0.3 : 1}} />
-      <img className="crowImg" src={crow} style={{opacity: mistakeCount/2 > 1 ? 0.3 : 1}} /> 
-      <img className="gooseImg" src={goose} style={{opacity: mistakeCount/2 > 2 ? 0.3 : 1}}/>
+      <img className="sparrowImg" src={sparrow} style={{opacity: mistakeCount > 0 ? 0.3 : 1}} />
+      <img className="crowImg" src={crow} style={{opacity: mistakeCount > 1 ? 0.3 : 1}} /> 
+      <img className="gooseImg" src={goose} style={{opacity: mistakeCount > 2 ? 0.3 : 1}}/>
       <h1 className="score">
-        score: {scoreCount/2}
+        score: {scoreCount}
         <span className="spacer"></span>
-        best: {highScore/2}
+        best: {highScore}
       </h1>
-      {mistakeCount/2 === 4 && <button className="restartButton" onClick={resetGame}>restart</button>}
+      {mistakeCount === 4 && <button className="restartButton" onClick={resetGame}>restart</button>}
       <div style={{ height: "200px" }}>
       <BirdList id="singleTile" list={singleTile} setList={setSingleTile} group="shared" onEnd={(event) => tilePlaced(event, singleTile[0])} />
       </div>
