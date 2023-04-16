@@ -1,3 +1,4 @@
+
 #root {
   text-align: center;
 }
@@ -12,6 +13,10 @@ body {
 .score {
   color: white;
   text-shadow: 0 0 5px black;
+}
+
+.spacer {
+  margin-right: 80px;
 }
 
 .restartButton {
