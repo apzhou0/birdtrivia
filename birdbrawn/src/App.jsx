@@ -69,6 +69,7 @@ export default function App() {
       <div style={{ height: "200px" }}>
       <BirdList id="singleTile" list={singleTile} setList={setSingleTile} group="shared" onEnd={(event) => tilePlaced(event, singleTile[0])} />
       </div>
+      <div style={{height: "50px"}}></div>
       <BirdList id="birds" list={birds} setList={setBirds} group="shared"/>
     </div>
   );

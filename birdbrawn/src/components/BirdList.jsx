@@ -3,8 +3,7 @@ import { ReactSortable } from "react-sortablejs";
 import Bird from "./Bird"
 
 export default function BirdList ({id, list, setList, group, onEnd}) {
-  let canPut = id === "birds";
-  let weightColor = id === "singleTile" ? "transparent" : "white";
+  let isPlaced = id === "birds";
   return (
     <ReactSortable 
       id={id} 
@@ -15,7 +14,7 @@ export default function BirdList ({id, list, setList, group, onEnd}) {
       delay={2} 
       group={{
         name: group,
-        put: canPut,
+        put: isPlaced,
       }}
       >
       {list.map((bird) => (
@@ -26,7 +25,7 @@ export default function BirdList ({id, list, setList, group, onEnd}) {
           weight={bird.weight}
           image={bird.image}
           rightSpot={bird.rightSpot}
-          weightColor={weightColor}
+          isPlaced={isPlaced}
         />
       ))}
     </ReactSortable>

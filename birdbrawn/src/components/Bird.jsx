@@ -1,6 +1,6 @@
 import React from "react";
 
-function Bird ({id, name, weight, image, rightSpot, weightColor}) {
+function Bird ({id, name, weight, image, rightSpot, isPlaced}) {
   const tileStyle = {
     backgroundImage: `url(${image})`,
     backgroundSize: "contain",
@@ -10,21 +10,23 @@ function Bird ({id, name, weight, image, rightSpot, weightColor}) {
     height: "180px",
   };
   const weightStyle = {
+    fontSize: "20px",
     textAlign: "right",
-    color: weightColor,
+    color: "white",
     margin: "10px",
+    textShadow: "0 0 7px black"
   };
   const redDot = {
-    backgroundColor: "red"
+    backgroundColor: "#cc0000"
   };
   const greenDot = {
-    backgroundColor: "green"
+    backgroundColor: "#63ab57"
   };
 
   return (
     <div className="Bird--tile" style={tileStyle}>
       <div className="Bird--dot" style={rightSpot ? greenDot : redDot}></div>
-      <h2 style={weightStyle}>{weight} g</h2>
+      {isPlaced && <h2 className="Bird--weight" style={weightStyle}>{weight} g</h2>}
       <h1 className = "Bird--name">{name}</h1>
     </div>
   );
