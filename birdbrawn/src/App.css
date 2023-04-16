@@ -14,8 +14,7 @@ html {
 }
 
 .score {
-  color: white;
-  text-shadow: 0 0 5px black;
+  color: black;
   font-style: italic;
 }
 
