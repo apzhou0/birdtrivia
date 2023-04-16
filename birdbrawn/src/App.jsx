@@ -2,9 +2,9 @@ import React from 'react'
 import './App.css'
 import BirdList from './components/BirdList.jsx'
 import bird_data from '../../bird_data.json';
-import sparrow from './assets/images/sparrow.png'
-import crow from './assets/images/crow.png'
-import goose from './assets/images/goose.png'
+import sparrow from './assets/images/sparrow_green.png'
+import crow from './assets/images/crow_green.png'
+import goose from './assets/images/goose_green.png'
 
 let processedIndices = new Set();
 let mistakeCount = 0;
