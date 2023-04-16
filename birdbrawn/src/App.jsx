@@ -1,29 +1,45 @@
 import React from 'react'
-import hum from './assets/images/hum.png'
 import './App.css'
 import BirdList from './components/BirdList.jsx'
+import bird_data from '../../bird_data.json';
+
+const shuffledBirds = bird_data;
+let processedIndices = new Set();
+
+function getRandomBird() {
+  let randomIndex = Math.floor(Math.random() * shuffledBirds.length);
+  while (processedIndices.has(randomIndex)) {
+    randomIndex = Math.floor(Math.random() * shuffledBirds.length);
+  }
+  processedIndices.add(randomIndex);
+  const randomBird = shuffledBirds[randomIndex];
+  const newBird = {id: randomIndex, name: randomBird.name, weight: randomBird.weight, image: randomBird.image_url, rightSpot: true};
+  return newBird;
+}
 
 export default function App() {
-  const [singleTile, setSingleTile] = React.useState([{id: 3, name: "singleBird", weight: "0", image: hum }]);
-
-  const [birds, setBirds] = React.useState([
-    { id: 1, name: "bird1", weight: "0.1", image: hum },
-    { id: 2, name: "bird2", weight: "0.2", image: hum },
-  ]);
+  const [singleTile, setSingleTile] = React.useState([getRandomBird()]);
+  const [birds, setBirds] = React.useState([getRandomBird()]);
   
-  const newSingleTile = (event) => {
+  const tilePlaced = (event, newBird) => {
     if (event.to.id === "birds") {
-      const newId = Math.floor(Math.random() * 1000);
-      setSingleTile([{ id: newId, name: "singlebird", weight: newId, image: hum }]);
+      setSingleTile([getRandomBird()]);
+      setBirds((prevBirds) => {
+        const sortedBirds = [...prevBirds].sort((a, b) => a.weight - b.weight);
+        if (JSON.stringify(prevBirds) !== JSON.stringify(sortedBirds)) {
+          newBird.rightSpot = false;
+        }
+        return sortedBirds;
+      });
     }
   };
 
   return (
     <div className="App">
       <div style={{ height: "400px" }}>
-      <BirdList id="singleTile" birds={singleTile} setBirds={setSingleTile} group="shared" onEnd={newSingleTile} />
+      <BirdList id="singleTile" list={singleTile} setList={setSingleTile} group="shared" onEnd={(event) => tilePlaced(event, singleTile[0])} />
       </div>
-      <BirdList id="birds" birds={birds} setBirds={setBirds} group="shared"/>
+      <BirdList id="birds" list={birds} setList={setBirds} group="shared"/>
     </div>
   );
 }

@@ -1,523 +1,525 @@
-{"name": "Harris's Hawk", "weight": "515", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306074621-480px.jpg"}
-{"name": "Great Crested Flycatcher", "weight": "27", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302056221-480px.jpg"}
-{"name": "Yellow Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297046671-480px.jpg"}
-{"name": "Ash-throated Flycatcher", "weight": "21", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302052391-480px.jpg"}
-{"name": "Northern Harrier", "weight": "300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305647471-480px.jpg"}
-{"name": "Sharp-shinned Hawk", "weight": "87", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305676551-480px.jpg"}
-{"name": "Black-throated Blue Warbler", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64806111-480px.jpg"}
-{"name": "Black Vulture", "weight": "1600", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305292761-480px.jpg"}
-{"name": "Yellow-bellied Flycatcher", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/160814931-480px.jpg"}
-{"name": "Ladder-backed Woodpecker", "weight": "21", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/65054631-480px.jpg"}
-{"name": "Abert's Towhee", "weight": "42", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299670841-480px.jpg"}
-{"name": "Yellow-rumped Warbler", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308764651-480px.jpg"}
-{"name": "Northern Rough-winged Swallow", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311350051-480px.jpg"}
-{"name": "Arizona Woodpecker", "weight": "34", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297898541-480px.jpg"}
-{"name": "Turkey Vulture", "weight": "2000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60317261-480px.jpg"}
-{"name": "Violet-green Swallow", "weight": "14", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305584951-480px.jpg"}
-{"name": "Chukar", "weight": "538", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296741481-480px.jpg"}
-{"name": "Rock Wren", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308758461-480px.jpg"}
-{"name": "American Kestrel", "weight": "80", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302366931-480px.jpg"}
-{"name": "Swallow-tailed Kite", "weight": "370", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305351301-480px.jpg"}
-{"name": "Common Loon", "weight": "2500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308049951-480px.jpg"}
-{"name": "Merlin", "weight": "160", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303424671-480px.jpg"}
-{"name": "Black Tern", "weight": "50", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/320036271-480px.jpg"}
-{"name": "Great Egret", "weight": "1000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/70610211-480px.jpg"}
-{"name": "Steller's Jay", "weight": "100", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/70582731-480px.jpg"}
-{"name": "Black-capped Chickadee", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302472691-480px.jpg"}
-{"name": "Little Blue Heron", "weight": "296", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/70689401-480px.jpg"}
-{"name": "Philadelphia Vireo", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302319981-480px.jpg"}
-{"name": "Marbled Godwit", "weight": "285", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64811431-480px.jpg"}
-{"name": "Horned Grebe", "weight": "300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304534481-480px.jpg"}
-{"name": "Rufous Hummingbird", "weight": "2", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/68934031-480px.jpg"}
-{"name": "Brewer's Sparrow", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64973431-480px.jpg"}
-{"name": "Rough-legged Hawk", "weight": "715", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/71545911-480px.jpg"}
-{"name": "Sharp-shinned Hawk", "weight": "87", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305676551-480px.jpg"}
-{"name": "Peregrine Falcon", "weight": "530", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303618951-480px.jpg"}
-{"name": "Black-crowned Night-Heron", "weight": "727", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304986701-480px.jpg"}
-{"name": "Dusky Grouse", "weight": "1158", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/39523291-480px.jpg"}
-{"name": "Red-breasted Merganser", "weight": "800", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302119101-480px.jpg"}
-{"name": "Black Guillemot", "weight": "320", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302773181-480px.jpg"}
-{"name": "Anna's Hummingbird", "weight": "3", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303891031-480px.jpg"}
-{"name": "Gray Catbird", "weight": "23", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303925501-480px.jpg"}
-{"name": "Baird's Sandpiper", "weight": "27", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301498711-480px.jpg"}
-{"name": "Warbling Vireo", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302322781-480px.jpg"}
-{"name": "Northern Shoveler", "weight": "400", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/300124811-480px.jpg"}
-{"name": "Black-throated Sparrow", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311380761-480px.jpg"}
-{"name": "Bell's Vireo", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302225311-480px.jpg"}
-{"name": "Common Redpoll", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311370301-480px.jpg"}
-{"name": "Eastern Screech-Owl", "weight": "121", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297361511-480px.jpg"}
-{"name": "Green Kingfisher", "weight": "35", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303719621-480px.jpg"}
-{"name": "Varied Bunting", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297336521-480px.jpg"}
-{"name": "Black-billed Cuckoo", "weight": "40", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308464851-480px.jpg"}
-{"name": "Red-shouldered Hawk", "weight": "486", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306105171-480px.jpg"}
-{"name": "Northern Hawk Owl", "weight": "240", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297367931-480px.jpg"}
-{"name": "American Goldfinch", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306710541-480px.jpg"}
-{"name": "Saltmarsh Sparrow", "weight": "17", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/171439141-480px.jpg"}
-{"name": "Greater Roadrunner", "weight": "221", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60388671-480px.jpg"}
-{"name": "Botteri's Sparrow", "weight": "17", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/171437651-480px.jpg"}
-{"name": "Curve-billed Thrasher", "weight": "60", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303921141-480px.jpg"}
-{"name": "Red-cockaded Woodpecker", "weight": "42", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297701441-480px.jpg"}
-{"name": "Lazuli Bunting", "weight": "13", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311473551-480px.jpg"}
-{"name": "American Three-toed Woodpecker", "weight": "44", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297689221-480px.jpg"}
-{"name": "Gray Kingbird", "weight": "37", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302125831-480px.jpg"}
-{"name": "Clark's Grebe", "weight": "718", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/164017921-480px.jpg"}
-{"name": "Virginia Rail", "weight": "65", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/37883281-480px.jpg"}
-{"name": "Barn Owl", "weight": "400", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297342281-480px.jpg"}
-{"name": "Western Grebe", "weight": "1138", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305516121-480px.jpg"}
-{"name": "Northern Saw-whet Owl", "weight": "65", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297402651-480px.jpg"}
-{"name": "Black-headed Gull", "weight": "190", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303342591-480px.jpg"}
-{"name": "Yellow-rumped Warbler", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308764651-480px.jpg"}
-{"name": "Violet-crowned Hummingbird", "weight": "4", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304284791-480px.jpg"}
-{"name": "Brown Creeper", "weight": "5", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308597451-480px.jpg"}
-{"name": "King Rail", "weight": "320", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303143791-480px.jpg"}
-{"name": "Black-billed Magpie", "weight": "145", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302389441-480px.jpg"}
-{"name": "Cooper's Hawk", "weight": "220", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60324921-480px.jpg"}
-{"name": "Canada Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297072721-480px.jpg"}
-{"name": "Hepatic Tanager", "weight": "23", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297079701-480px.jpg"}
-{"name": "Greater Scaup", "weight": "726", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/162823881-480px.jpg"}
-{"name": "Ruby-throated Hummingbird", "weight": "2", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303881311-480px.jpg"}
-{"name": "Gray Partridge", "weight": "385", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296750991-480px.jpg"}
-{"name": "Bank Swallow", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305597801-480px.jpg"}
-{"name": "Ancient Murrelet", "weight": "153", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302835151-480px.jpg"}
-{"name": "California Scrub-Jay", "weight": "70", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302371571-480px.jpg"}
-{"name": "Virginia's Warbler", "weight": "6", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296818571-480px.jpg"}
-{"name": "Heermann's Gull", "weight": "371", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303366721-480px.jpg"}
-{"name": "House Finch", "weight": "16", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306327341-480px.jpg"}
-{"name": "Rusty Blackbird", "weight": "47", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67375011-480px.jpg"}
-{"name": "Western Screech-Owl", "weight": "100", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311369771-480px.jpg"}
-{"name": "Neotropic Cormorant", "weight": "1070", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304392981-480px.jpg"}
-{"name": "Long-tailed Jaeger", "weight": "218", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308491271-480px.jpg"}
-{"name": "Black Scoter", "weight": "862", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63901801-480px.jpg"}
-{"name": "Atlantic Puffin", "weight": "310", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302851271-480px.jpg"}
-{"name": "Common Eider", "weight": "1300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301589811-480px.jpg"}
-{"name": "Mourning Dove", "weight": "96", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60386921-480px.jpg"}
-{"name": "Rhinoceros Auklet", "weight": "350", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302847681-480px.jpg"}
-{"name": "Black-headed Grosbeak", "weight": "35", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297327641-480px.jpg"}
-{"name": "Mourning Warbler", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296835651-480px.jpg"}
-{"name": "Prairie Falcon", "weight": "420", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/71547471-480px.jpg"}
-{"name": "Willow Flycatcher", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301824711-480px.jpg"}
-{"name": "Flammulated Owl", "weight": "43", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297354921-480px.jpg"}
-{"name": "American Coot", "weight": "600", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303193191-480px.jpg"}
-{"name": "Hermit Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297068091-480px.jpg"}
-{"name": "Blue-gray Gnatcatcher", "weight": "4", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308533151-480px.jpg"}
-{"name": "Ruffed Grouse", "weight": "450", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/65615501-480px.jpg"}
-{"name": "Short-eared Owl", "weight": "206", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297400191-480px.jpg"}
-{"name": "Rose-breasted Grosbeak", "weight": "39", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297326811-480px.jpg"}
-{"name": "Red Phalarope", "weight": "42", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/164867911-480px.jpg"}
-{"name": "Baird's Sparrow", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308768371-480px.jpg"}
-{"name": "Common Tern", "weight": "93", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299890491-480px.jpg"}
-{"name": "Crested Caracara", "weight": "1050", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/70583361-480px.jpg"}
-{"name": "Tundra Swan", "weight": "3800", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/59956021-480px.jpg"}
-{"name": "Mountain Bluebird", "weight": "30", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303800251-480px.jpg"}
-{"name": "Harris's Hawk", "weight": "515", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306074621-480px.jpg"}
-{"name": "Pacific Loon", "weight": "1000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308026491-480px.jpg"}
-{"name": "Limpkin", "weight": "1050", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303213551-480px.jpg"}
-{"name": "Glaucous-winged Gull", "weight": "900", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303388951-480px.jpg"}
-{"name": "Mute Swan", "weight": "5500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/59954151-480px.jpg"}
-{"name": "Scott's Oriole", "weight": "32", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306385361-480px.jpg"}
-{"name": "Black-throated Gray Warbler", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297059311-480px.jpg"}
-{"name": "Black-tailed Gnatcatcher", "weight": "5", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308521041-480px.jpg"}
-{"name": "White-winged Crossbill", "weight": "24", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/171455081-480px.jpg"}
-{"name": "Red-breasted Nuthatch", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308563981-480px.jpg"}
-{"name": "Brown Thrasher", "weight": "61", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303907821-480px.jpg"}
-{"name": "Blue Jay", "weight": "70", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311635911-480px.jpg"}
-{"name": "Pigeon Guillemot", "weight": "450", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/164897081-480px.jpg"}
-{"name": "Veery", "weight": "28", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303691281-480px.jpg"}
-{"name": "Eastern Wood-Pewee", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301815151-480px.jpg"}
-{"name": "Dickcissel", "weight": "25", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297338761-480px.jpg"}
-{"name": "Parasitic Jaeger", "weight": "301", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308485091-480px.jpg"}
-{"name": "Elf Owl", "weight": "35", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297384171-480px.jpg"}
-{"name": "Black-necked Stilt", "weight": "150", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297914651-480px.jpg"}
-{"name": "Loggerhead Shrike", "weight": "35", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302339191-480px.jpg"}
-{"name": "Swainson's Thrush", "weight": "23", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67460821-480px.jpg"}
-{"name": "Blue-footed Booby", "weight": "1500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311363711-480px.jpg"}
-{"name": "Golden-cheeked Warbler", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297069601-480px.jpg"}
-{"name": "Pacific-slope Flycatcher", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301860641-480px.jpg"}
-{"name": "Nelson's Sparrow", "weight": "17", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311384101-480px.jpg"}
-{"name": "Spotted Owl", "weight": "500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297387821-480px.jpg"}
-{"name": "Bicknell's Thrush", "weight": "26", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303454471-480px.jpg"}
-{"name": "Chukar", "weight": "538", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296741481-480px.jpg"}
-{"name": "Henslow's Sparrow", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/171447861-480px.jpg"}
-{"name": "Brown-capped Rosy-Finch", "weight": "23", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308052311-480px.jpg"}
-{"name": "Kentucky Warbler", "weight": "13", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296839171-480px.jpg"}
-{"name": "Purple Sandpiper", "weight": "50", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301491311-480px.jpg"}
-{"name": "Lesser Scaup", "weight": "454", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63896301-480px.jpg"}
-{"name": "American White Pelican", "weight": "4500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304461551-480px.jpg"}
-{"name": "Hermit Thrush", "weight": "23", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303450651-480px.jpg"}
-{"name": "Tricolored Heron", "weight": "415", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304957351-480px.jpg"}
-{"name": "Brewer's Blackbird", "weight": "60", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306625401-480px.jpg"}
-{"name": "Bohemian Waxwing", "weight": "45", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/162296061-480px.jpg"}
-{"name": "American Redstart", "weight": "6", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297029071-480px.jpg"}
-{"name": "Violet-green Swallow", "weight": "14", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305584951-480px.jpg"}
-{"name": "Black Vulture", "weight": "1600", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305292761-480px.jpg"}
-{"name": "Grasshopper Sparrow", "weight": "14", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308767421-480px.jpg"}
-{"name": "Dovekie", "weight": "134", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302760441-480px.jpg"}
-{"name": "Black Rail", "weight": "29", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303207361-480px.jpg"}
-{"name": "Red-eyed Vireo", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302325181-480px.jpg"}
-{"name": "Ring-necked Duck", "weight": "490", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301536921-480px.jpg"}
-{"name": "Brant", "weight": "1165", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/295428261-480px.jpg"}
-{"name": "Red Knot", "weight": "125", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301244501-480px.jpg"}
-{"name": "Eared Grebe", "weight": "200", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305508041-480px.jpg"}
-{"name": "Canada Goose", "weight": "3000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/59953191-480px.jpg"}
-{"name": "Eastern Kingbird", "weight": "33", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302123291-480px.jpg"}
-{"name": "Great Crested Flycatcher", "weight": "27", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302056221-480px.jpg"}
-{"name": "Turkey Vulture", "weight": "2000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60317261-480px.jpg"}
-{"name": "Red-crowned Parrot", "weight": "316", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/414766991-480px.jpg"}
-{"name": "Gambel's Quail", "weight": "160", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296730461-480px.jpg"}
-{"name": "Eastern Towhee", "weight": "32", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311637941-480px.jpg"}
-{"name": "Spruce Grouse", "weight": "491", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/295442571-480px.jpg"}
-{"name": "Least Tern", "weight": "36", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/320025631-480px.jpg"}
-{"name": "Brown-headed Cowbird", "weight": "42", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306621721-480px.jpg"}
-{"name": "Wrentit", "weight": "13", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308542271-480px.jpg"}
-{"name": "Bonaparte's Gull", "weight": "210", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303339391-480px.jpg"}
-{"name": "White-tailed Kite", "weight": "300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/70707541-480px.jpg"}
-{"name": "Yellow Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297046671-480px.jpg"}
-{"name": "Short-tailed Hawk", "weight": "385", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306197891-480px.jpg"}
-{"name": "Hairy Woodpecker", "weight": "40", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/309038471-480px.jpg"}
-{"name": "Audubon's Oriole", "weight": "31", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306367931-480px.jpg"}
-{"name": "Red-naped Sapsucker", "weight": "32", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297659541-480px.jpg"}
-{"name": "Canyon Wren", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304320881-480px.jpg"}
-{"name": "Ring-billed Gull", "weight": "300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303369661-480px.jpg"}
-{"name": "Pine Siskin", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306420291-480px.jpg"}
-{"name": "Hook-billed Kite", "weight": "215", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305346591-480px.jpg"}
-{"name": "Rock Pigeon", "weight": "265", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308065631-480px.jpg"}
-{"name": "Trumpeter Swan", "weight": "7700", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/295430011-480px.jpg"}
-{"name": "Magnificent Frigatebird", "weight": "1000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304380021-480px.jpg"}
-{"name": "Cape May Warbler", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297033651-480px.jpg"}
-{"name": "Red-breasted Sapsucker", "weight": "53", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/65053401-480px.jpg"}
-{"name": "American Kestrel", "weight": "80", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302366931-480px.jpg"}
-{"name": "Long-tailed Duck", "weight": "650", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302051251-480px.jpg"}
-{"name": "Red-winged Blackbird", "weight": "32", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306392131-480px.jpg"}
-{"name": "Snow Bunting", "weight": "31", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67450281-480px.jpg"}
-{"name": "Pelagic Cormorant", "weight": "1370", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/66026051-480px.jpg"}
-{"name": "Double-crested Cormorant", "weight": "1200", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/66027281-480px.jpg"}
-{"name": "Gray-headed Swamphen", "weight": "505", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/133737161-480px.jpg"}
-{"name": "Forster's Tern", "weight": "130", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308420601-480px.jpg"}
-{"name": "Yellow-eyed Junco", "weight": "16", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297909191-480px.jpg"}
-{"name": "Little Gull", "weight": "100", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/167696311-480px.jpg"}
-{"name": "Red-tailed Hawk", "weight": "690", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60384771-480px.jpg"}
-{"name": "Western Bluebird", "weight": "24", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67472541-480px.jpg"}
-{"name": "Whimbrel", "weight": "310", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301232671-480px.jpg"}
-{"name": "Dark-eyed Junco", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/66115711-480px.jpg"}
-{"name": "Yellow-throated Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308761391-480px.jpg"}
-{"name": "Hooded Merganser", "weight": "453", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302071781-480px.jpg"}
-{"name": "Wood Stork", "weight": "2050", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304101231-480px.jpg"}
-{"name": "Wilson's Phalarope", "weight": "38", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64831941-480px.jpg"}
-{"name": "Common Merganser", "weight": "900", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63910971-480px.jpg"}
-{"name": "Tree Swallow", "weight": "16", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305568151-480px.jpg"}
-{"name": "Fish Crow", "weight": "195", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302400101-480px.jpg"}
-{"name": "Common Gallinule", "weight": "310", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/71546991-480px.jpg"}
-{"name": "Eurasian Collared-Dove", "weight": "140", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308119951-480px.jpg"}
-{"name": "Vaux's Swift", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304091041-480px.jpg"}
-{"name": "Connecticut Warbler", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296833621-480px.jpg"}
-{"name": "Reddish Egret", "weight": "700", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304962281-480px.jpg"}
-{"name": "Rock Wren", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308758461-480px.jpg"}
-{"name": "Black-bellied Plover", "weight": "169", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297925101-480px.jpg"}
-{"name": "Golden-fronted Woodpecker", "weight": "73", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297686591-480px.jpg"}
-{"name": "Long-billed Thrasher", "weight": "68", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303902081-480px.jpg"}
-{"name": "Northern Parula", "weight": "5", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64518191-480px.jpg"}
-{"name": "Red-necked Grebe", "weight": "800", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/65057131-480px.jpg"}
-{"name": "Semipalmated Sandpiper", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301537841-480px.jpg"}
-{"name": "Herring Gull", "weight": "800", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303381091-480px.jpg"}
-{"name": "Spectacled Eider", "weight": "1275", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301553621-480px.jpg"}
-{"name": "Yellow-bellied Sapsucker", "weight": "43", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297655981-480px.jpg"}
-{"name": "Northern Shrike", "weight": "56", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302342581-480px.jpg"}
-{"name": "Long-eared Owl", "weight": "220", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297391881-480px.jpg"}
-{"name": "Seaside Sparrow", "weight": "19", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299384491-480px.jpg"}
-{"name": "California Quail", "weight": "140", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296733361-480px.jpg"}
-{"name": "Bronzed Cowbird", "weight": "64", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67362641-480px.jpg"}
-{"name": "Northern Waterthrush", "weight": "14", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296756901-480px.jpg"}
-{"name": "Red-headed Woodpecker", "weight": "56", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297684081-480px.jpg"}
-{"name": "White-winged Scoter", "weight": "950", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63900451-480px.jpg"}
-{"name": "Ash-throated Flycatcher", "weight": "21", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302052391-480px.jpg"}
-{"name": "Yellow-breasted Chat", "weight": "23", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64916141-480px.jpg"}
-{"name": "Common Goldeneye", "weight": "600", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302057041-480px.jpg"}
-{"name": "Ivory-billed Woodpecker", "weight": "450", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/73122151-480px.jpg"}
-{"name": "Belted Kingfisher", "weight": "140", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303715931-480px.jpg"}
-{"name": "Blackburnian Warbler", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297045621-480px.jpg"}
-{"name": "Northern Beardless-Tyrannulet", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301800171-480px.jpg"}
-{"name": "Gray Flycatcher", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301854701-480px.jpg"}
-{"name": "Swainson's Warbler", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296768641-480px.jpg"}
-{"name": "Black-crested Titmouse", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302629381-480px.jpg"}
-{"name": "Ruby-crowned Kinglet", "weight": "5", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67474361-480px.jpg"}
-{"name": "Boat-tailed Grackle", "weight": "93", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67363931-480px.jpg"}
-{"name": "Osprey", "weight": "1400", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60320581-480px.jpg"}
-{"name": "Sharp-tailed Grouse", "weight": "596", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/295483111-480px.jpg"}
-{"name": "Orchard Oriole", "weight": "16", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306351671-480px.jpg"}
-{"name": "Common Black Hawk", "weight": "790", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/186190351-480px.jpg"}
-{"name": "Painted Redstart", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/309042961-480px.jpg"}
-{"name": "Wild Turkey", "weight": "2500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311368611-480px.jpg"}
-{"name": "Eastern Meadowlark", "weight": "90", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306337121-480px.jpg"}
-{"name": "Montezuma Quail", "weight": "122", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/163097631-480px.jpg"}
-{"name": "Greater Prairie-Chicken", "weight": "904", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/295490511-480px.jpg"}
-{"name": "Golden Eagle", "weight": "3000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305364081-480px.jpg"}
-{"name": "Harris's Sparrow", "weight": "26", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64979771-480px.jpg"}
-{"name": "Calliope Hummingbird", "weight": "2", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/65766661-480px.jpg"}
-{"name": "Red-bellied Woodpecker", "weight": "56", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64995071-480px.jpg"}
-{"name": "Hammond's Flycatcher", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301849191-480px.jpg"}
-{"name": "Northern Flicker", "weight": "110", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60403261-480px.jpg"}
-{"name": "Purple Gallinule", "weight": "203", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/71546831-480px.jpg"}
-{"name": "Muscovy Duck", "weight": "1990", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299692021-480px.jpg"}
-{"name": "Black-and-white Warbler", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63666541-480px.jpg"}
-{"name": "Savannah Sparrow", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299412471-480px.jpg"}
-{"name": "MacGillivray's Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296834351-480px.jpg"}
-{"name": "American Black Duck", "weight": "720", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60018911-480px.jpg"}
-{"name": "Common Raven", "weight": "689", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/300152741-480px.jpg"}
-{"name": "Dusky-capped Flycatcher", "weight": "20", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302051161-480px.jpg"}
-{"name": "California Condor", "weight": "7000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/70143671-480px.jpg"}
-{"name": "Yellow-headed Blackbird", "weight": "44", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306328961-480px.jpg"}
-{"name": "Snow Goose", "weight": "1600", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/295417571-480px.jpg"}
-{"name": "Pacific Wren", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304358551-480px.jpg"}
-{"name": "Field Sparrow", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297663691-480px.jpg"}
-{"name": "Common Loon", "weight": "2500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308049951-480px.jpg"}
-{"name": "Cattle Egret", "weight": "270", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304971031-480px.jpg"}
-{"name": "Bullock's Oriole", "weight": "29", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306361551-480px.jpg"}
-{"name": "American Crow", "weight": "316", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/59858041-480px.jpg"}
-{"name": "White-crowned Sparrow", "weight": "25", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64978031-480px.jpg"}
-{"name": "Gilded Flicker", "weight": "92", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311373711-480px.jpg"}
-{"name": "Baltimore Oriole", "weight": "30", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306380871-480px.jpg"}
-{"name": "Green-winged Teal", "weight": "140", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63893401-480px.jpg"}
-{"name": "Black-capped Vireo", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302142241-480px.jpg"}
-{"name": "Wood Duck", "weight": "454", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/65533521-480px.jpg"}
-{"name": "Chuck-will's-widow", "weight": "66", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303974581-480px.jpg"}
-{"name": "Blue-winged Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296764091-480px.jpg"}
-{"name": "Northern Pintail", "weight": "500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301309501-480px.jpg"}
-{"name": "Tricolored Blackbird", "weight": "40", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306397861-480px.jpg"}
-{"name": "Yellow-bellied Flycatcher", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/160814931-480px.jpg"}
-{"name": "Snowy Egret", "weight": "370", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/70611061-480px.jpg"}
-{"name": "Red-faced Cormorant", "weight": "2100", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304390341-480px.jpg"}
-{"name": "Black-footed Albatross", "weight": "2200", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297602301-480px.jpg"}
-{"name": "Arctic Tern", "weight": "90", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308404421-480px.jpg"}
-{"name": "Dusky Flycatcher", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301858411-480px.jpg"}
-{"name": "Alder Flycatcher", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301820301-480px.jpg"}
-{"name": "Brown-headed Nuthatch", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308588041-480px.jpg"}
-{"name": "Sooty Shearwater", "weight": "650", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297636291-480px.jpg"}
-{"name": "Spotted Sandpiper", "weight": "34", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301783811-480px.jpg"}
-{"name": "Marsh Wren", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/68035321-480px.jpg"}
-{"name": "Zone-tailed Hawk", "weight": "607", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306244251-480px.jpg"}
-{"name": "Lapland Longspur", "weight": "22", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/171432921-480px.jpg"}
-{"name": "Ross's Gull", "weight": "140", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/68949091-480px.jpg"}
-{"name": "White-crowned Pigeon", "weight": "220", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308079511-480px.jpg"}
-{"name": "Chihuahuan Raven", "weight": "442", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302412991-480px.jpg"}
-{"name": "Brown Booby", "weight": "950", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304383741-480px.jpg"}
-{"name": "Tennessee Warbler", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296780741-480px.jpg"}
-{"name": "House Wren", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/59860711-480px.jpg"}
-{"name": "African Collared-Dove", "weight": "130", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/106862111-480px.jpg"}
-{"name": "Anhinga", "weight": "1325", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/66028931-480px.jpg"}
-{"name": "Carolina Wren", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304470861-480px.jpg"}
-{"name": "Laughing Gull", "weight": "203", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/169503031-480px.jpg"}
-{"name": "Sandhill Crane", "weight": "3400", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303217321-480px.jpg"}
-{"name": "Black-legged Kittiwake", "weight": "305", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303332511-480px.jpg"}
-{"name": "Ferruginous Hawk", "weight": "977", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306323611-480px.jpg"}
-{"name": "Lark Sparrow", "weight": "24", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64973941-480px.jpg"}
-{"name": "Black-throated Blue Warbler", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64806111-480px.jpg"}
-{"name": "Northern Cardinal", "weight": "42", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297087301-480px.jpg"}
-{"name": "Willow Ptarmigan", "weight": "538", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/295447381-480px.jpg"}
-{"name": "Eastern Bluebird", "weight": "28", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303809061-480px.jpg"}
-{"name": "Acadian Flycatcher", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301816971-480px.jpg"}
-{"name": "Cackling Goose", "weight": "1398", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/59950661-480px.jpg"}
-{"name": "Evening Grosbeak", "weight": "53", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311371841-480px.jpg"}
-{"name": "Black-throated Green Warbler", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/162294151-480px.jpg"}
-{"name": "Black Skimmer", "weight": "265", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/170571351-480px.jpg"}
-{"name": "Florida Scrub-Jay", "weight": "66", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311639621-480px.jpg"}
-{"name": "Bay-breasted Warbler", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64800391-480px.jpg"}
-{"name": "Cliff Swallow", "weight": "19", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305772321-480px.jpg"}
-{"name": "Scarlet Tanager", "weight": "23", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297081931-480px.jpg"}
-{"name": "European Starling", "weight": "60", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303928891-480px.jpg"}
-{"name": "Sanderling", "weight": "40", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64814541-480px.jpg"}
-{"name": "Whooping Crane", "weight": "6000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303223541-480px.jpg"}
-{"name": "Barred Owl", "weight": "470", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297388681-480px.jpg"}
-{"name": "Swallow-tailed Kite", "weight": "370", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305351301-480px.jpg"}
-{"name": "Northern Fulmar", "weight": "450", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297628611-480px.jpg"}
-{"name": "Great Gray Owl", "weight": "700", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/32804161-480px.jpg"}
-{"name": "Great Blue Heron", "weight": "2100", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304479371-480px.jpg"}
-{"name": "Hooded Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297027781-480px.jpg"}
-{"name": "Western Kingbird", "weight": "37", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/65683361-480px.jpg"}
-{"name": "Cinnamon Teal", "weight": "335", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299913341-480px.jpg"}
-{"name": "Black Rosy-Finch", "weight": "22", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308040821-480px.jpg"}
-{"name": "Gyrfalcon", "weight": "800", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/170735401-480px.jpg"}
-{"name": "Red-footed Booby", "weight": "850", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/49131401-480px.jpg"}
-{"name": "Franklin's Gull", "weight": "230", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/169529071-480px.jpg"}
-{"name": "Aplomado Falcon", "weight": "208", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303441831-480px.jpg"}
-{"name": "American Pipit", "weight": "19", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306149371-480px.jpg"}
-{"name": "Sedge Wren", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304461471-480px.jpg"}
-{"name": "Yellow-billed Cuckoo", "weight": "55", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308454251-480px.jpg"}
-{"name": "Bachman's Sparrow", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/171438671-480px.jpg"}
-{"name": "Great-tailed Grackle", "weight": "105", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67363301-480px.jpg"}
-{"name": "American Golden-Plover", "weight": "122", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297937901-480px.jpg"}
-{"name": "Long-billed Dowitcher", "weight": "88", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301557841-480px.jpg"}
-{"name": "Western Wood-Pewee", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301812111-480px.jpg"}
-{"name": "Masked Booby", "weight": "1300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304382921-480px.jpg"}
-{"name": "Red-faced Warbler", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297074721-480px.jpg"}
-{"name": "Lawrence's Goldfinch", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306650941-480px.jpg"}
-{"name": "Cordilleran Flycatcher", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301864901-480px.jpg"}
-{"name": "Canvasback", "weight": "862", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63893981-480px.jpg"}
-{"name": "Spotted Towhee", "weight": "33", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299678301-480px.jpg"}
-{"name": "Hutton's Vireo", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302235311-480px.jpg"}
-{"name": "Townsend's Solitaire", "weight": "30", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67469871-480px.jpg"}
-{"name": "Worm-eating Warbler", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296754331-480px.jpg"}
-{"name": "Western Meadowlark", "weight": "89", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306332801-480px.jpg"}
-{"name": "Chestnut-sided Warbler", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64803561-480px.jpg"}
-{"name": "Golden-crowned Kinglet", "weight": "4", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/161342541-480px.jpg"}
-{"name": "Great Black-backed Gull", "weight": "1300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303401861-480px.jpg"}
-{"name": "Redhead", "weight": "630", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301323281-480px.jpg"}
-{"name": "Common Murre", "weight": "800", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302764311-480px.jpg"}
-{"name": "Lesser Nighthawk", "weight": "45", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303953401-480px.jpg"}
-{"name": "Cassin's Vireo", "weight": "13", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302246281-480px.jpg"}
-{"name": "Surf Scoter", "weight": "900", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302040411-480px.jpg"}
-{"name": "Green Heron", "weight": "240", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304980141-480px.jpg"}
-{"name": "House Sparrow", "weight": "27", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305880301-480px.jpg"}
-{"name": "Ivory Gull", "weight": "448", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/55025061-480px.jpg"}
-{"name": "Greater Yellowlegs", "weight": "128", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64836521-480px.jpg"}
-{"name": "Rufous-winged Sparrow", "weight": "13", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297372991-480px.jpg"}
-{"name": "Common Nighthawk", "weight": "65", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303958241-480px.jpg"}
-{"name": "Caspian Tern", "weight": "530", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308395131-480px.jpg"}
-{"name": "American Tree Sparrow", "weight": "13", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297719081-480px.jpg"}
-{"name": "California Gull", "weight": "430", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303379191-480px.jpg"}
-{"name": "Bobolink", "weight": "29", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306331051-480px.jpg"}
-{"name": "Phainopepla", "weight": "17", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305854841-480px.jpg"}
-{"name": "Carolina Chickadee", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302469081-480px.jpg"}
-{"name": "Vesper Sparrow", "weight": "20", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299337031-480px.jpg"}
-{"name": "Gray-crowned Rosy-Finch", "weight": "22", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/307951151-480px.jpg"}
-{"name": "Western Sandpiper", "weight": "22", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301565971-480px.jpg"}
-{"name": "Nashville Warbler", "weight": "6", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296807801-480px.jpg"}
-{"name": "Tufted Titmouse", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302627281-480px.jpg"}
-{"name": "Eurasian Tree Sparrow", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305890841-480px.jpg"}
-{"name": "Ladder-backed Woodpecker", "weight": "21", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/65054631-480px.jpg"}
-{"name": "Swamp Sparrow", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64985151-480px.jpg"}
-{"name": "Hooded Oriole", "weight": "24", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306356481-480px.jpg"}
-{"name": "Song Sparrow", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308771371-480px.jpg"}
-{"name": "Lewis's Woodpecker", "weight": "88", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297680501-480px.jpg"}
-{"name": "American Wigeon", "weight": "540", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60017891-480px.jpg"}
-{"name": "Lark Bunting", "weight": "35", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297712361-480px.jpg"}
-{"name": "Crissal Thrasher", "weight": "53", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303818501-480px.jpg"}
-{"name": "Northern Mockingbird", "weight": "45", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63743751-480px.jpg"}
-{"name": "Boreal Owl", "weight": "93", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/70095811-480px.jpg"}
-{"name": "Winter Wren", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304456681-480px.jpg"}
-{"name": "White-tailed Hawk", "weight": "880", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306082531-480px.jpg"}
-{"name": "Roseate Spoonbill", "weight": "1200", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311367261-480px.jpg"}
-{"name": "Cerulean Warbler", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297038371-480px.jpg"}
-{"name": "Blue-winged Teal", "weight": "230", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60292801-480px.jpg"}
-{"name": "Short-billed Gull", "weight": "360", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/71314291-480px.jpg"}
-{"name": "California Thrasher", "weight": "78", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303894301-480px.jpg"}
-{"name": "Cave Swallow", "weight": "17", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311350771-480px.jpg"}
-{"name": "Black-chinned Hummingbird", "weight": "2", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303887411-480px.jpg"}
-{"name": "Cassin's Sparrow", "weight": "16", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/162795001-480px.jpg"}
-{"name": "Glaucous Gull", "weight": "1250", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303396771-480px.jpg"}
-{"name": "Black-chinned Sparrow", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/94256321-480px.jpg"}
-{"name": "Western Gull", "weight": "800", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303371381-480px.jpg"}
-{"name": "Pine Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64893901-480px.jpg"}
-{"name": "Magnolia Warbler", "weight": "6", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297040641-480px.jpg"}
-{"name": "Bufflehead", "weight": "272", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/216531741-480px.jpg"}
-{"name": "Gadwall", "weight": "500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308742131-480px.jpg"}
-{"name": "Downy Woodpecker", "weight": "21", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60397941-480px.jpg"}
-{"name": "Blue Grosbeak", "weight": "26", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67447361-480px.jpg"}
-{"name": "Arizona Woodpecker", "weight": "34", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297898541-480px.jpg"}
-{"name": "Mottled Duck", "weight": "876", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308743931-480px.jpg"}
-{"name": "Royal Tern", "weight": "390", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308468891-480px.jpg"}
-{"name": "American Woodcock", "weight": "116", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301561251-480px.jpg"}
-{"name": "Gray Vireo", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302231801-480px.jpg"}
-{"name": "Killdeer", "weight": "75", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301221881-480px.jpg"}
-{"name": "Great Cormorant", "weight": "2600", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/66026521-480px.jpg"}
-{"name": "Wandering Tattler", "weight": "60", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301789071-480px.jpg"}
-{"name": "Gray-cheeked Thrush", "weight": "26", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303679641-480px.jpg"}
-{"name": "Grace's Warbler", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297054451-480px.jpg"}
-{"name": "Nuttall's Woodpecker", "weight": "30", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297698041-480px.jpg"}
-{"name": "American Bittern", "weight": "370", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304465371-480px.jpg"}
-{"name": "Northern Goshawk", "weight": "631", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306057361-480px.jpg"}
-{"name": "Least Bittern", "weight": "46", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304476671-480px.jpg"}
-{"name": "White-faced Ibis", "weight": "450", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308512681-480px.jpg"}
-{"name": "White-throated Sparrow", "weight": "22", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64980371-480px.jpg"}
-{"name": "Orange-crowned Warbler", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296785521-480px.jpg"}
-{"name": "Allen's Hummingbird", "weight": "2", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304001991-480px.jpg"}
-{"name": "Acorn Woodpecker", "weight": "65", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64992871-480px.jpg"}
-{"name": "Ruddy Duck", "weight": "300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302124271-480px.jpg"}
-{"name": "Scaled Quail", "weight": "177", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296734001-480px.jpg"}
-{"name": "Canyon Towhee", "weight": "37", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64988761-480px.jpg"}
-{"name": "Least Sandpiper", "weight": "19", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301499501-480px.jpg"}
-{"name": "Olive Sparrow", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297624971-480px.jpg"}
-{"name": "Brown-crested Flycatcher", "weight": "44", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302060461-480px.jpg"}
-{"name": "Varied Thrush", "weight": "65", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303793391-480px.jpg"}
-{"name": "Bald Eagle", "weight": "3000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306062281-480px.jpg"}
-{"name": "Abert's Towhee", "weight": "42", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299670841-480px.jpg"}
-{"name": "Common Grackle", "weight": "74", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/307948931-480px.jpg"}
-{"name": "Harlequin Duck", "weight": "490", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63898051-480px.jpg"}
-{"name": "Razorbill", "weight": "505", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302767751-480px.jpg"}
-{"name": "Solitary Sandpiper", "weight": "31", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301786351-480px.jpg"}
-{"name": "California Gnatcatcher", "weight": "5", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308526311-480px.jpg"}
-{"name": "Northern Harrier", "weight": "300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305647471-480px.jpg"}
-{"name": "Iceland Gull", "weight": "820", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303386311-480px.jpg"}
-{"name": "Gila Woodpecker", "weight": "51", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64993561-480px.jpg"}
-{"name": "White-breasted Nuthatch", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/68039391-480px.jpg"}
-{"name": "Lesser Goldfinch", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306428101-480px.jpg"}
-{"name": "Lesser Black-backed Gull", "weight": "545", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299868811-480px.jpg"}
-{"name": "Brown Pelican", "weight": "2000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304463771-480px.jpg"}
-{"name": "Blue-headed Vireo", "weight": "13", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302314711-480px.jpg"}
-{"name": "Barn Swallow", "weight": "17", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/312652671-480px.jpg"}
-{"name": "Brandt's Cormorant", "weight": "1400", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/66025501-480px.jpg"}
-{"name": "Greater White-fronted Goose", "weight": "1951", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/59938311-480px.jpg"}
-{"name": "California Towhee", "weight": "37", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64989841-480px.jpg"}
-{"name": "White-eyed Vireo", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302146561-480px.jpg"}
-{"name": "Snowy Owl", "weight": "1600", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297365891-480px.jpg"}
-{"name": "Laysan Albatross", "weight": "2200", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67654621-480px.jpg"}
-{"name": "Northern Gannet", "weight": "2470", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/66025421-480px.jpg"}
-{"name": "Eastern Whip-poor-will", "weight": "43", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303989741-480px.jpg"}
-{"name": "Blackpoll Warbler", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64804711-480px.jpg"}
-{"name": "Pileated Woodpecker", "weight": "250", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311372981-480px.jpg"}
-{"name": "Yellow-billed Magpie", "weight": "150", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302393761-480px.jpg"}
-{"name": "Ringed Kingfisher", "weight": "140", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303691911-480px.jpg"}
-{"name": "Dunlin", "weight": "48", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301478601-480px.jpg"}
-{"name": "Willet", "weight": "200", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64838171-480px.jpg"}
-{"name": "Red-necked Phalarope", "weight": "27", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301571851-480px.jpg"}
-{"name": "Wilson's Warbler", "weight": "5", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297073391-480px.jpg"}
-{"name": "Wilson's Storm-Petrel", "weight": "28", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297603211-480px.jpg"}
-{"name": "Altamira Oriole", "weight": "47", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306365831-480px.jpg"}
-{"name": "Least Flycatcher", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301828001-480px.jpg"}
-{"name": "Broad-winged Hawk", "weight": "265", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/71534291-480px.jpg"}
-{"name": "Lincoln's Sparrow", "weight": "17", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299637291-480px.jpg"}
-{"name": "Chipping Sparrow", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64972021-480px.jpg"}
-{"name": "White-rumped Sandpiper", "weight": "40", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301528301-480px.jpg"}
-{"name": "Sandwich Tern", "weight": "180", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/170561151-480px.jpg"}
-{"name": "Snowy Plover", "weight": "32", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297949771-480px.jpg"}
-{"name": "Red-throated Loon", "weight": "1250", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306758371-480px.jpg"}
-{"name": "Great Horned Owl", "weight": "910", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297363481-480px.jpg"}
-{"name": "Lesser Yellowlegs", "weight": "79", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301797021-480px.jpg"}
-{"name": "Townsend's Warbler", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297064161-480px.jpg"}
-{"name": "Ross's Goose", "weight": "1198", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/295421201-480px.jpg"}
-{"name": "Fox Sparrow", "weight": "26", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/66115301-480px.jpg"}
-{"name": "Wood Thrush", "weight": "40", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/170865181-480px.jpg"}
-{"name": "Black-backed Woodpecker", "weight": "61", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297690371-480px.jpg"}
-{"name": "Chestnut-backed Chickadee", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302487051-480px.jpg"}
-{"name": "Semipalmated Plover", "weight": "45", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301215411-480px.jpg"}
-{"name": "Northern Rough-winged Swallow", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311350051-480px.jpg"}
-{"name": "Purple Finch", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306333791-480px.jpg"}
-{"name": "Yellow Rail", "weight": "41", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303199631-480px.jpg"}
-{"name": "Cedar Waxwing", "weight": "32", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305837211-480px.jpg"}
-{"name": "Burrowing Owl", "weight": "150", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297386341-480px.jpg"}
-{"name": "American Robin", "weight": "77", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303441381-480px.jpg"}
-{"name": "Pinyon Jay", "weight": "90", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302351591-480px.jpg"}
-{"name": "Mallard", "weight": "1000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308743051-480px.jpg"}
-{"name": "Chimney Swift", "weight": "17", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304087131-480px.jpg"}
-{"name": "Ovenbird", "weight": "16", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296753061-480px.jpg"}
-{"name": "Ruddy Turnstone", "weight": "84", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64811941-480px.jpg"}
-{"name": "Pied-billed Grebe", "weight": "253", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304522011-480px.jpg"}
-{"name": "American Avocet", "weight": "275", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297916791-480px.jpg"}
-{"name": "Horned Lark", "weight": "28", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308603561-480px.jpg"}
-{"name": "Pomarine Jaeger", "weight": "521", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308476091-480px.jpg"}
-{"name": "Yellow-throated Vireo", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302241151-480px.jpg"}
-{"name": "Long-billed Curlew", "weight": "490", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64810681-480px.jpg"}
-{"name": "Purple Martin", "weight": "45", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305535681-480px.jpg"}
-{"name": "Wilson's Snipe", "weight": "79", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301564811-480px.jpg"}
-{"name": "Eastern Phoebe", "weight": "16", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311636371-480px.jpg"}
-{"name": "Olive Warbler", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305865991-480px.jpg"}
-{"name": "Snail Kite", "weight": "360", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305373191-480px.jpg"}
-{"name": "Upland Sandpiper", "weight": "97", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301229341-480px.jpg"}
-{"name": "Indigo Bunting", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297333661-480px.jpg"}
-{"name": "Sage Thrasher", "weight": "40", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303814901-480px.jpg"}
-{"name": "Common Yellowthroat", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297027971-480px.jpg"}
-{"name": "Cassin's Finch", "weight": "24", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67283591-480px.jpg"}
-{"name": "Louisiana Waterthrush", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296755471-480px.jpg"}
-{"name": "Barrow's Goldeneye", "weight": "1075", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302060441-480px.jpg"}
-{"name": "LeConte's Sparrow", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299350191-480px.jpg"}
-{"name": "Olive-sided Flycatcher", "weight": "28", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301807021-480px.jpg"}
+[
+{"name": "Harris's Hawk", "weight": "515", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306074621-480px.jpg"},
+{"name": "Great Crested Flycatcher", "weight": "27", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302056221-480px.jpg"},
+{"name": "Yellow Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297046671-480px.jpg"},
+{"name": "Ash-throated Flycatcher", "weight": "21", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302052391-480px.jpg"},
+{"name": "Northern Harrier", "weight": "300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305647471-480px.jpg"},
+{"name": "Sharp-shinned Hawk", "weight": "87", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305676551-480px.jpg"},
+{"name": "Black-throated Blue Warbler", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64806111-480px.jpg"},
+{"name": "Black Vulture", "weight": "1600", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305292761-480px.jpg"},
+{"name": "Yellow-bellied Flycatcher", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/160814931-480px.jpg"},
+{"name": "Ladder-backed Woodpecker", "weight": "21", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/65054631-480px.jpg"},
+{"name": "Abert's Towhee", "weight": "42", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299670841-480px.jpg"},
+{"name": "Yellow-rumped Warbler", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308764651-480px.jpg"},
+{"name": "Northern Rough-winged Swallow", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311350051-480px.jpg"},
+{"name": "Arizona Woodpecker", "weight": "34", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297898541-480px.jpg"},
+{"name": "Turkey Vulture", "weight": "2000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60317261-480px.jpg"},
+{"name": "Violet-green Swallow", "weight": "14", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305584951-480px.jpg"},
+{"name": "Chukar", "weight": "538", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296741481-480px.jpg"},
+{"name": "Rock Wren", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308758461-480px.jpg"},
+{"name": "American Kestrel", "weight": "80", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302366931-480px.jpg"},
+{"name": "Swallow-tailed Kite", "weight": "370", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305351301-480px.jpg"},
+{"name": "Common Loon", "weight": "2500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308049951-480px.jpg"},
+{"name": "Merlin", "weight": "160", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303424671-480px.jpg"},
+{"name": "Black Tern", "weight": "50", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/320036271-480px.jpg"},
+{"name": "Great Egret", "weight": "1000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/70610211-480px.jpg"},
+{"name": "Steller's Jay", "weight": "100", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/70582731-480px.jpg"},
+{"name": "Black-capped Chickadee", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302472691-480px.jpg"},
+{"name": "Little Blue Heron", "weight": "296", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/70689401-480px.jpg"},
+{"name": "Philadelphia Vireo", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302319981-480px.jpg"},
+{"name": "Marbled Godwit", "weight": "285", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64811431-480px.jpg"},
+{"name": "Horned Grebe", "weight": "300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304534481-480px.jpg"},
+{"name": "Rufous Hummingbird", "weight": "2", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/68934031-480px.jpg"},
+{"name": "Brewer's Sparrow", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64973431-480px.jpg"},
+{"name": "Rough-legged Hawk", "weight": "715", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/71545911-480px.jpg"},
+{"name": "Sharp-shinned Hawk", "weight": "87", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305676551-480px.jpg"},
+{"name": "Peregrine Falcon", "weight": "530", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303618951-480px.jpg"},
+{"name": "Black-crowned Night-Heron", "weight": "727", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304986701-480px.jpg"},
+{"name": "Dusky Grouse", "weight": "1158", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/39523291-480px.jpg"},
+{"name": "Red-breasted Merganser", "weight": "800", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302119101-480px.jpg"},
+{"name": "Black Guillemot", "weight": "320", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302773181-480px.jpg"},
+{"name": "Anna's Hummingbird", "weight": "3", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303891031-480px.jpg"},
+{"name": "Gray Catbird", "weight": "23", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303925501-480px.jpg"},
+{"name": "Baird's Sandpiper", "weight": "27", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301498711-480px.jpg"},
+{"name": "Warbling Vireo", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302322781-480px.jpg"},
+{"name": "Northern Shoveler", "weight": "400", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/300124811-480px.jpg"},
+{"name": "Black-throated Sparrow", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311380761-480px.jpg"},
+{"name": "Bell's Vireo", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302225311-480px.jpg"},
+{"name": "Common Redpoll", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311370301-480px.jpg"},
+{"name": "Eastern Screech-Owl", "weight": "121", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297361511-480px.jpg"},
+{"name": "Green Kingfisher", "weight": "35", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303719621-480px.jpg"},
+{"name": "Varied Bunting", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297336521-480px.jpg"},
+{"name": "Black-billed Cuckoo", "weight": "40", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308464851-480px.jpg"},
+{"name": "Red-shouldered Hawk", "weight": "486", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306105171-480px.jpg"},
+{"name": "Northern Hawk Owl", "weight": "240", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297367931-480px.jpg"},
+{"name": "American Goldfinch", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306710541-480px.jpg"},
+{"name": "Saltmarsh Sparrow", "weight": "17", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/171439141-480px.jpg"},
+{"name": "Greater Roadrunner", "weight": "221", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60388671-480px.jpg"},
+{"name": "Botteri's Sparrow", "weight": "17", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/171437651-480px.jpg"},
+{"name": "Curve-billed Thrasher", "weight": "60", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303921141-480px.jpg"},
+{"name": "Red-cockaded Woodpecker", "weight": "42", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297701441-480px.jpg"},
+{"name": "Lazuli Bunting", "weight": "13", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311473551-480px.jpg"},
+{"name": "American Three-toed Woodpecker", "weight": "44", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297689221-480px.jpg"},
+{"name": "Gray Kingbird", "weight": "37", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302125831-480px.jpg"},
+{"name": "Clark's Grebe", "weight": "718", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/164017921-480px.jpg"},
+{"name": "Virginia Rail", "weight": "65", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/37883281-480px.jpg"},
+{"name": "Barn Owl", "weight": "400", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297342281-480px.jpg"},
+{"name": "Western Grebe", "weight": "1138", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305516121-480px.jpg"},
+{"name": "Northern Saw-whet Owl", "weight": "65", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297402651-480px.jpg"},
+{"name": "Black-headed Gull", "weight": "190", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303342591-480px.jpg"},
+{"name": "Yellow-rumped Warbler", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308764651-480px.jpg"},
+{"name": "Violet-crowned Hummingbird", "weight": "4", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304284791-480px.jpg"},
+{"name": "Brown Creeper", "weight": "5", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308597451-480px.jpg"},
+{"name": "King Rail", "weight": "320", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303143791-480px.jpg"},
+{"name": "Black-billed Magpie", "weight": "145", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302389441-480px.jpg"},
+{"name": "Cooper's Hawk", "weight": "220", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60324921-480px.jpg"},
+{"name": "Canada Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297072721-480px.jpg"},
+{"name": "Hepatic Tanager", "weight": "23", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297079701-480px.jpg"},
+{"name": "Greater Scaup", "weight": "726", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/162823881-480px.jpg"},
+{"name": "Ruby-throated Hummingbird", "weight": "2", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303881311-480px.jpg"},
+{"name": "Gray Partridge", "weight": "385", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296750991-480px.jpg"},
+{"name": "Bank Swallow", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305597801-480px.jpg"},
+{"name": "Ancient Murrelet", "weight": "153", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302835151-480px.jpg"},
+{"name": "California Scrub-Jay", "weight": "70", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302371571-480px.jpg"},
+{"name": "Virginia's Warbler", "weight": "6", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296818571-480px.jpg"},
+{"name": "Heermann's Gull", "weight": "371", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303366721-480px.jpg"},
+{"name": "House Finch", "weight": "16", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306327341-480px.jpg"},
+{"name": "Rusty Blackbird", "weight": "47", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67375011-480px.jpg"},
+{"name": "Western Screech-Owl", "weight": "100", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311369771-480px.jpg"},
+{"name": "Neotropic Cormorant", "weight": "1070", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304392981-480px.jpg"},
+{"name": "Long-tailed Jaeger", "weight": "218", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308491271-480px.jpg"},
+{"name": "Black Scoter", "weight": "862", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63901801-480px.jpg"},
+{"name": "Atlantic Puffin", "weight": "310", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302851271-480px.jpg"},
+{"name": "Common Eider", "weight": "1300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301589811-480px.jpg"},
+{"name": "Mourning Dove", "weight": "96", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60386921-480px.jpg"},
+{"name": "Rhinoceros Auklet", "weight": "350", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302847681-480px.jpg"},
+{"name": "Black-headed Grosbeak", "weight": "35", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297327641-480px.jpg"},
+{"name": "Mourning Warbler", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296835651-480px.jpg"},
+{"name": "Prairie Falcon", "weight": "420", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/71547471-480px.jpg"},
+{"name": "Willow Flycatcher", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301824711-480px.jpg"},
+{"name": "Flammulated Owl", "weight": "43", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297354921-480px.jpg"},
+{"name": "American Coot", "weight": "600", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303193191-480px.jpg"},
+{"name": "Hermit Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297068091-480px.jpg"},
+{"name": "Blue-gray Gnatcatcher", "weight": "4", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308533151-480px.jpg"},
+{"name": "Ruffed Grouse", "weight": "450", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/65615501-480px.jpg"},
+{"name": "Short-eared Owl", "weight": "206", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297400191-480px.jpg"},
+{"name": "Rose-breasted Grosbeak", "weight": "39", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297326811-480px.jpg"},
+{"name": "Red Phalarope", "weight": "42", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/164867911-480px.jpg"},
+{"name": "Baird's Sparrow", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308768371-480px.jpg"},
+{"name": "Common Tern", "weight": "93", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299890491-480px.jpg"},
+{"name": "Crested Caracara", "weight": "1050", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/70583361-480px.jpg"},
+{"name": "Tundra Swan", "weight": "3800", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/59956021-480px.jpg"},
+{"name": "Mountain Bluebird", "weight": "30", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303800251-480px.jpg"},
+{"name": "Harris's Hawk", "weight": "515", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306074621-480px.jpg"},
+{"name": "Pacific Loon", "weight": "1000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308026491-480px.jpg"},
+{"name": "Limpkin", "weight": "1050", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303213551-480px.jpg"},
+{"name": "Glaucous-winged Gull", "weight": "900", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303388951-480px.jpg"},
+{"name": "Mute Swan", "weight": "5500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/59954151-480px.jpg"},
+{"name": "Scott's Oriole", "weight": "32", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306385361-480px.jpg"},
+{"name": "Black-throated Gray Warbler", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297059311-480px.jpg"},
+{"name": "Black-tailed Gnatcatcher", "weight": "5", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308521041-480px.jpg"},
+{"name": "White-winged Crossbill", "weight": "24", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/171455081-480px.jpg"},
+{"name": "Red-breasted Nuthatch", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308563981-480px.jpg"},
+{"name": "Brown Thrasher", "weight": "61", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303907821-480px.jpg"},
+{"name": "Blue Jay", "weight": "70", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311635911-480px.jpg"},
+{"name": "Pigeon Guillemot", "weight": "450", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/164897081-480px.jpg"},
+{"name": "Veery", "weight": "28", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303691281-480px.jpg"},
+{"name": "Eastern Wood-Pewee", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301815151-480px.jpg"},
+{"name": "Dickcissel", "weight": "25", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297338761-480px.jpg"},
+{"name": "Parasitic Jaeger", "weight": "301", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308485091-480px.jpg"},
+{"name": "Elf Owl", "weight": "35", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297384171-480px.jpg"},
+{"name": "Black-necked Stilt", "weight": "150", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297914651-480px.jpg"},
+{"name": "Loggerhead Shrike", "weight": "35", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302339191-480px.jpg"},
+{"name": "Swainson's Thrush", "weight": "23", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67460821-480px.jpg"},
+{"name": "Blue-footed Booby", "weight": "1500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311363711-480px.jpg"},
+{"name": "Golden-cheeked Warbler", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297069601-480px.jpg"},
+{"name": "Pacific-slope Flycatcher", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301860641-480px.jpg"},
+{"name": "Nelson's Sparrow", "weight": "17", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311384101-480px.jpg"},
+{"name": "Spotted Owl", "weight": "500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297387821-480px.jpg"},
+{"name": "Bicknell's Thrush", "weight": "26", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303454471-480px.jpg"},
+{"name": "Chukar", "weight": "538", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296741481-480px.jpg"},
+{"name": "Henslow's Sparrow", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/171447861-480px.jpg"},
+{"name": "Brown-capped Rosy-Finch", "weight": "23", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308052311-480px.jpg"},
+{"name": "Kentucky Warbler", "weight": "13", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296839171-480px.jpg"},
+{"name": "Purple Sandpiper", "weight": "50", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301491311-480px.jpg"},
+{"name": "Lesser Scaup", "weight": "454", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63896301-480px.jpg"},
+{"name": "American White Pelican", "weight": "4500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304461551-480px.jpg"},
+{"name": "Hermit Thrush", "weight": "23", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303450651-480px.jpg"},
+{"name": "Tricolored Heron", "weight": "415", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304957351-480px.jpg"},
+{"name": "Brewer's Blackbird", "weight": "60", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306625401-480px.jpg"},
+{"name": "Bohemian Waxwing", "weight": "45", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/162296061-480px.jpg"},
+{"name": "American Redstart", "weight": "6", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297029071-480px.jpg"},
+{"name": "Violet-green Swallow", "weight": "14", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305584951-480px.jpg"},
+{"name": "Black Vulture", "weight": "1600", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305292761-480px.jpg"},
+{"name": "Grasshopper Sparrow", "weight": "14", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308767421-480px.jpg"},
+{"name": "Dovekie", "weight": "134", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302760441-480px.jpg"},
+{"name": "Black Rail", "weight": "29", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303207361-480px.jpg"},
+{"name": "Red-eyed Vireo", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302325181-480px.jpg"},
+{"name": "Ring-necked Duck", "weight": "490", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301536921-480px.jpg"},
+{"name": "Brant", "weight": "1165", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/295428261-480px.jpg"},
+{"name": "Red Knot", "weight": "125", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301244501-480px.jpg"},
+{"name": "Eared Grebe", "weight": "200", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305508041-480px.jpg"},
+{"name": "Canada Goose", "weight": "3000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/59953191-480px.jpg"},
+{"name": "Eastern Kingbird", "weight": "33", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302123291-480px.jpg"},
+{"name": "Great Crested Flycatcher", "weight": "27", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302056221-480px.jpg"},
+{"name": "Turkey Vulture", "weight": "2000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60317261-480px.jpg"},
+{"name": "Red-crowned Parrot", "weight": "316", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/414766991-480px.jpg"},
+{"name": "Gambel's Quail", "weight": "160", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296730461-480px.jpg"},
+{"name": "Eastern Towhee", "weight": "32", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311637941-480px.jpg"},
+{"name": "Spruce Grouse", "weight": "491", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/295442571-480px.jpg"},
+{"name": "Least Tern", "weight": "36", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/320025631-480px.jpg"},
+{"name": "Brown-headed Cowbird", "weight": "42", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306621721-480px.jpg"},
+{"name": "Wrentit", "weight": "13", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308542271-480px.jpg"},
+{"name": "Bonaparte's Gull", "weight": "210", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303339391-480px.jpg"},
+{"name": "White-tailed Kite", "weight": "300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/70707541-480px.jpg"},
+{"name": "Yellow Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297046671-480px.jpg"},
+{"name": "Short-tailed Hawk", "weight": "385", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306197891-480px.jpg"},
+{"name": "Hairy Woodpecker", "weight": "40", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/309038471-480px.jpg"},
+{"name": "Audubon's Oriole", "weight": "31", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306367931-480px.jpg"},
+{"name": "Red-naped Sapsucker", "weight": "32", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297659541-480px.jpg"},
+{"name": "Canyon Wren", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304320881-480px.jpg"},
+{"name": "Ring-billed Gull", "weight": "300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303369661-480px.jpg"},
+{"name": "Pine Siskin", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306420291-480px.jpg"},
+{"name": "Hook-billed Kite", "weight": "215", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305346591-480px.jpg"},
+{"name": "Rock Pigeon", "weight": "265", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308065631-480px.jpg"},
+{"name": "Trumpeter Swan", "weight": "7700", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/295430011-480px.jpg"},
+{"name": "Magnificent Frigatebird", "weight": "1000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304380021-480px.jpg"},
+{"name": "Cape May Warbler", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297033651-480px.jpg"},
+{"name": "Red-breasted Sapsucker", "weight": "53", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/65053401-480px.jpg"},
+{"name": "American Kestrel", "weight": "80", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302366931-480px.jpg"},
+{"name": "Long-tailed Duck", "weight": "650", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302051251-480px.jpg"},
+{"name": "Red-winged Blackbird", "weight": "32", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306392131-480px.jpg"},
+{"name": "Snow Bunting", "weight": "31", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67450281-480px.jpg"},
+{"name": "Pelagic Cormorant", "weight": "1370", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/66026051-480px.jpg"},
+{"name": "Double-crested Cormorant", "weight": "1200", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/66027281-480px.jpg"},
+{"name": "Gray-headed Swamphen", "weight": "505", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/133737161-480px.jpg"},
+{"name": "Forster's Tern", "weight": "130", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308420601-480px.jpg"},
+{"name": "Yellow-eyed Junco", "weight": "16", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297909191-480px.jpg"},
+{"name": "Little Gull", "weight": "100", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/167696311-480px.jpg"},
+{"name": "Red-tailed Hawk", "weight": "690", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60384771-480px.jpg"},
+{"name": "Western Bluebird", "weight": "24", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67472541-480px.jpg"},
+{"name": "Whimbrel", "weight": "310", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301232671-480px.jpg"},
+{"name": "Dark-eyed Junco", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/66115711-480px.jpg"},
+{"name": "Yellow-throated Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308761391-480px.jpg"},
+{"name": "Hooded Merganser", "weight": "453", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302071781-480px.jpg"},
+{"name": "Wood Stork", "weight": "2050", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304101231-480px.jpg"},
+{"name": "Wilson's Phalarope", "weight": "38", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64831941-480px.jpg"},
+{"name": "Common Merganser", "weight": "900", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63910971-480px.jpg"},
+{"name": "Tree Swallow", "weight": "16", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305568151-480px.jpg"},
+{"name": "Fish Crow", "weight": "195", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302400101-480px.jpg"},
+{"name": "Common Gallinule", "weight": "310", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/71546991-480px.jpg"},
+{"name": "Eurasian Collared-Dove", "weight": "140", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308119951-480px.jpg"},
+{"name": "Vaux's Swift", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304091041-480px.jpg"},
+{"name": "Connecticut Warbler", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296833621-480px.jpg"},
+{"name": "Reddish Egret", "weight": "700", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304962281-480px.jpg"},
+{"name": "Rock Wren", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308758461-480px.jpg"},
+{"name": "Black-bellied Plover", "weight": "169", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297925101-480px.jpg"},
+{"name": "Golden-fronted Woodpecker", "weight": "73", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297686591-480px.jpg"},
+{"name": "Long-billed Thrasher", "weight": "68", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303902081-480px.jpg"},
+{"name": "Northern Parula", "weight": "5", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64518191-480px.jpg"},
+{"name": "Red-necked Grebe", "weight": "800", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/65057131-480px.jpg"},
+{"name": "Semipalmated Sandpiper", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301537841-480px.jpg"},
+{"name": "Herring Gull", "weight": "800", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303381091-480px.jpg"},
+{"name": "Spectacled Eider", "weight": "1275", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301553621-480px.jpg"},
+{"name": "Yellow-bellied Sapsucker", "weight": "43", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297655981-480px.jpg"},
+{"name": "Northern Shrike", "weight": "56", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302342581-480px.jpg"},
+{"name": "Long-eared Owl", "weight": "220", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297391881-480px.jpg"},
+{"name": "Seaside Sparrow", "weight": "19", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299384491-480px.jpg"},
+{"name": "California Quail", "weight": "140", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296733361-480px.jpg"},
+{"name": "Bronzed Cowbird", "weight": "64", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67362641-480px.jpg"},
+{"name": "Northern Waterthrush", "weight": "14", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296756901-480px.jpg"},
+{"name": "Red-headed Woodpecker", "weight": "56", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297684081-480px.jpg"},
+{"name": "White-winged Scoter", "weight": "950", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63900451-480px.jpg"},
+{"name": "Ash-throated Flycatcher", "weight": "21", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302052391-480px.jpg"},
+{"name": "Yellow-breasted Chat", "weight": "23", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64916141-480px.jpg"},
+{"name": "Common Goldeneye", "weight": "600", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302057041-480px.jpg"},
+{"name": "Ivory-billed Woodpecker", "weight": "450", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/73122151-480px.jpg"},
+{"name": "Belted Kingfisher", "weight": "140", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303715931-480px.jpg"},
+{"name": "Blackburnian Warbler", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297045621-480px.jpg"},
+{"name": "Northern Beardless-Tyrannulet", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301800171-480px.jpg"},
+{"name": "Gray Flycatcher", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301854701-480px.jpg"},
+{"name": "Swainson's Warbler", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296768641-480px.jpg"},
+{"name": "Black-crested Titmouse", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302629381-480px.jpg"},
+{"name": "Ruby-crowned Kinglet", "weight": "5", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67474361-480px.jpg"},
+{"name": "Boat-tailed Grackle", "weight": "93", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67363931-480px.jpg"},
+{"name": "Osprey", "weight": "1400", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60320581-480px.jpg"},
+{"name": "Sharp-tailed Grouse", "weight": "596", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/295483111-480px.jpg"},
+{"name": "Orchard Oriole", "weight": "16", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306351671-480px.jpg"},
+{"name": "Common Black Hawk", "weight": "790", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/186190351-480px.jpg"},
+{"name": "Painted Redstart", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/309042961-480px.jpg"},
+{"name": "Wild Turkey", "weight": "2500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311368611-480px.jpg"},
+{"name": "Eastern Meadowlark", "weight": "90", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306337121-480px.jpg"},
+{"name": "Montezuma Quail", "weight": "122", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/163097631-480px.jpg"},
+{"name": "Greater Prairie-Chicken", "weight": "904", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/295490511-480px.jpg"},
+{"name": "Golden Eagle", "weight": "3000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305364081-480px.jpg"},
+{"name": "Harris's Sparrow", "weight": "26", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64979771-480px.jpg"},
+{"name": "Calliope Hummingbird", "weight": "2", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/65766661-480px.jpg"},
+{"name": "Red-bellied Woodpecker", "weight": "56", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64995071-480px.jpg"},
+{"name": "Hammond's Flycatcher", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301849191-480px.jpg"},
+{"name": "Northern Flicker", "weight": "110", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60403261-480px.jpg"},
+{"name": "Purple Gallinule", "weight": "203", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/71546831-480px.jpg"},
+{"name": "Muscovy Duck", "weight": "1990", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299692021-480px.jpg"},
+{"name": "Black-and-white Warbler", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63666541-480px.jpg"},
+{"name": "Savannah Sparrow", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299412471-480px.jpg"},
+{"name": "MacGillivray's Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296834351-480px.jpg"},
+{"name": "American Black Duck", "weight": "720", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60018911-480px.jpg"},
+{"name": "Common Raven", "weight": "689", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/300152741-480px.jpg"},
+{"name": "Dusky-capped Flycatcher", "weight": "20", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302051161-480px.jpg"},
+{"name": "California Condor", "weight": "7000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/70143671-480px.jpg"},
+{"name": "Yellow-headed Blackbird", "weight": "44", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306328961-480px.jpg"},
+{"name": "Snow Goose", "weight": "1600", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/295417571-480px.jpg"},
+{"name": "Pacific Wren", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304358551-480px.jpg"},
+{"name": "Field Sparrow", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297663691-480px.jpg"},
+{"name": "Common Loon", "weight": "2500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308049951-480px.jpg"},
+{"name": "Cattle Egret", "weight": "270", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304971031-480px.jpg"},
+{"name": "Bullock's Oriole", "weight": "29", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306361551-480px.jpg"},
+{"name": "American Crow", "weight": "316", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/59858041-480px.jpg"},
+{"name": "White-crowned Sparrow", "weight": "25", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64978031-480px.jpg"},
+{"name": "Gilded Flicker", "weight": "92", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311373711-480px.jpg"},
+{"name": "Baltimore Oriole", "weight": "30", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306380871-480px.jpg"},
+{"name": "Green-winged Teal", "weight": "140", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63893401-480px.jpg"},
+{"name": "Black-capped Vireo", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302142241-480px.jpg"},
+{"name": "Wood Duck", "weight": "454", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/65533521-480px.jpg"},
+{"name": "Chuck-will's-widow", "weight": "66", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303974581-480px.jpg"},
+{"name": "Blue-winged Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296764091-480px.jpg"},
+{"name": "Northern Pintail", "weight": "500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301309501-480px.jpg"},
+{"name": "Tricolored Blackbird", "weight": "40", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306397861-480px.jpg"},
+{"name": "Yellow-bellied Flycatcher", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/160814931-480px.jpg"},
+{"name": "Snowy Egret", "weight": "370", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/70611061-480px.jpg"},
+{"name": "Red-faced Cormorant", "weight": "2100", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304390341-480px.jpg"},
+{"name": "Black-footed Albatross", "weight": "2200", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297602301-480px.jpg"},
+{"name": "Arctic Tern", "weight": "90", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308404421-480px.jpg"},
+{"name": "Dusky Flycatcher", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301858411-480px.jpg"},
+{"name": "Alder Flycatcher", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301820301-480px.jpg"},
+{"name": "Brown-headed Nuthatch", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308588041-480px.jpg"},
+{"name": "Sooty Shearwater", "weight": "650", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297636291-480px.jpg"},
+{"name": "Spotted Sandpiper", "weight": "34", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301783811-480px.jpg"},
+{"name": "Marsh Wren", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/68035321-480px.jpg"},
+{"name": "Zone-tailed Hawk", "weight": "607", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306244251-480px.jpg"},
+{"name": "Lapland Longspur", "weight": "22", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/171432921-480px.jpg"},
+{"name": "Ross's Gull", "weight": "140", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/68949091-480px.jpg"},
+{"name": "White-crowned Pigeon", "weight": "220", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308079511-480px.jpg"},
+{"name": "Chihuahuan Raven", "weight": "442", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302412991-480px.jpg"},
+{"name": "Brown Booby", "weight": "950", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304383741-480px.jpg"},
+{"name": "Tennessee Warbler", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296780741-480px.jpg"},
+{"name": "House Wren", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/59860711-480px.jpg"},
+{"name": "African Collared-Dove", "weight": "130", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/106862111-480px.jpg"},
+{"name": "Anhinga", "weight": "1325", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/66028931-480px.jpg"},
+{"name": "Carolina Wren", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304470861-480px.jpg"},
+{"name": "Laughing Gull", "weight": "203", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/169503031-480px.jpg"},
+{"name": "Sandhill Crane", "weight": "3400", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303217321-480px.jpg"},
+{"name": "Black-legged Kittiwake", "weight": "305", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303332511-480px.jpg"},
+{"name": "Ferruginous Hawk", "weight": "977", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306323611-480px.jpg"},
+{"name": "Lark Sparrow", "weight": "24", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64973941-480px.jpg"},
+{"name": "Black-throated Blue Warbler", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64806111-480px.jpg"},
+{"name": "Northern Cardinal", "weight": "42", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297087301-480px.jpg"},
+{"name": "Willow Ptarmigan", "weight": "538", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/295447381-480px.jpg"},
+{"name": "Eastern Bluebird", "weight": "28", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303809061-480px.jpg"},
+{"name": "Acadian Flycatcher", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301816971-480px.jpg"},
+{"name": "Cackling Goose", "weight": "1398", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/59950661-480px.jpg"},
+{"name": "Evening Grosbeak", "weight": "53", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311371841-480px.jpg"},
+{"name": "Black-throated Green Warbler", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/162294151-480px.jpg"},
+{"name": "Black Skimmer", "weight": "265", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/170571351-480px.jpg"},
+{"name": "Florida Scrub-Jay", "weight": "66", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311639621-480px.jpg"},
+{"name": "Bay-breasted Warbler", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64800391-480px.jpg"},
+{"name": "Cliff Swallow", "weight": "19", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305772321-480px.jpg"},
+{"name": "Scarlet Tanager", "weight": "23", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297081931-480px.jpg"},
+{"name": "European Starling", "weight": "60", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303928891-480px.jpg"},
+{"name": "Sanderling", "weight": "40", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64814541-480px.jpg"},
+{"name": "Whooping Crane", "weight": "6000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303223541-480px.jpg"},
+{"name": "Barred Owl", "weight": "470", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297388681-480px.jpg"},
+{"name": "Swallow-tailed Kite", "weight": "370", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305351301-480px.jpg"},
+{"name": "Northern Fulmar", "weight": "450", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297628611-480px.jpg"},
+{"name": "Great Gray Owl", "weight": "700", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/32804161-480px.jpg"},
+{"name": "Great Blue Heron", "weight": "2100", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304479371-480px.jpg"},
+{"name": "Hooded Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297027781-480px.jpg"},
+{"name": "Western Kingbird", "weight": "37", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/65683361-480px.jpg"},
+{"name": "Cinnamon Teal", "weight": "335", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299913341-480px.jpg"},
+{"name": "Black Rosy-Finch", "weight": "22", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308040821-480px.jpg"},
+{"name": "Gyrfalcon", "weight": "800", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/170735401-480px.jpg"},
+{"name": "Red-footed Booby", "weight": "850", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/49131401-480px.jpg"},
+{"name": "Franklin's Gull", "weight": "230", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/169529071-480px.jpg"},
+{"name": "Aplomado Falcon", "weight": "208", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303441831-480px.jpg"},
+{"name": "American Pipit", "weight": "19", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306149371-480px.jpg"},
+{"name": "Sedge Wren", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304461471-480px.jpg"},
+{"name": "Yellow-billed Cuckoo", "weight": "55", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308454251-480px.jpg"},
+{"name": "Bachman's Sparrow", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/171438671-480px.jpg"},
+{"name": "Great-tailed Grackle", "weight": "105", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67363301-480px.jpg"},
+{"name": "American Golden-Plover", "weight": "122", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297937901-480px.jpg"},
+{"name": "Long-billed Dowitcher", "weight": "88", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301557841-480px.jpg"},
+{"name": "Western Wood-Pewee", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301812111-480px.jpg"},
+{"name": "Masked Booby", "weight": "1300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304382921-480px.jpg"},
+{"name": "Red-faced Warbler", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297074721-480px.jpg"},
+{"name": "Lawrence's Goldfinch", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306650941-480px.jpg"},
+{"name": "Cordilleran Flycatcher", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301864901-480px.jpg"},
+{"name": "Canvasback", "weight": "862", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63893981-480px.jpg"},
+{"name": "Spotted Towhee", "weight": "33", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299678301-480px.jpg"},
+{"name": "Hutton's Vireo", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302235311-480px.jpg"},
+{"name": "Townsend's Solitaire", "weight": "30", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67469871-480px.jpg"},
+{"name": "Worm-eating Warbler", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296754331-480px.jpg"},
+{"name": "Western Meadowlark", "weight": "89", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306332801-480px.jpg"},
+{"name": "Chestnut-sided Warbler", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64803561-480px.jpg"},
+{"name": "Golden-crowned Kinglet", "weight": "4", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/161342541-480px.jpg"},
+{"name": "Great Black-backed Gull", "weight": "1300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303401861-480px.jpg"},
+{"name": "Redhead", "weight": "630", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301323281-480px.jpg"},
+{"name": "Common Murre", "weight": "800", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302764311-480px.jpg"},
+{"name": "Lesser Nighthawk", "weight": "45", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303953401-480px.jpg"},
+{"name": "Cassin's Vireo", "weight": "13", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302246281-480px.jpg"},
+{"name": "Surf Scoter", "weight": "900", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302040411-480px.jpg"},
+{"name": "Green Heron", "weight": "240", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304980141-480px.jpg"},
+{"name": "House Sparrow", "weight": "27", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305880301-480px.jpg"},
+{"name": "Ivory Gull", "weight": "448", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/55025061-480px.jpg"},
+{"name": "Greater Yellowlegs", "weight": "128", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64836521-480px.jpg"},
+{"name": "Rufous-winged Sparrow", "weight": "13", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297372991-480px.jpg"},
+{"name": "Common Nighthawk", "weight": "65", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303958241-480px.jpg"},
+{"name": "Caspian Tern", "weight": "530", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308395131-480px.jpg"},
+{"name": "American Tree Sparrow", "weight": "13", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297719081-480px.jpg"},
+{"name": "California Gull", "weight": "430", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303379191-480px.jpg"},
+{"name": "Bobolink", "weight": "29", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306331051-480px.jpg"},
+{"name": "Phainopepla", "weight": "17", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305854841-480px.jpg"},
+{"name": "Carolina Chickadee", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302469081-480px.jpg"},
+{"name": "Vesper Sparrow", "weight": "20", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299337031-480px.jpg"},
+{"name": "Gray-crowned Rosy-Finch", "weight": "22", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/307951151-480px.jpg"},
+{"name": "Western Sandpiper", "weight": "22", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301565971-480px.jpg"},
+{"name": "Nashville Warbler", "weight": "6", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296807801-480px.jpg"},
+{"name": "Tufted Titmouse", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302627281-480px.jpg"},
+{"name": "Eurasian Tree Sparrow", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305890841-480px.jpg"},
+{"name": "Ladder-backed Woodpecker", "weight": "21", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/65054631-480px.jpg"},
+{"name": "Swamp Sparrow", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64985151-480px.jpg"},
+{"name": "Hooded Oriole", "weight": "24", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306356481-480px.jpg"},
+{"name": "Song Sparrow", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308771371-480px.jpg"},
+{"name": "Lewis's Woodpecker", "weight": "88", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297680501-480px.jpg"},
+{"name": "American Wigeon", "weight": "540", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60017891-480px.jpg"},
+{"name": "Lark Bunting", "weight": "35", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297712361-480px.jpg"},
+{"name": "Crissal Thrasher", "weight": "53", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303818501-480px.jpg"},
+{"name": "Northern Mockingbird", "weight": "45", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63743751-480px.jpg"},
+{"name": "Boreal Owl", "weight": "93", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/70095811-480px.jpg"},
+{"name": "Winter Wren", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304456681-480px.jpg"},
+{"name": "White-tailed Hawk", "weight": "880", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306082531-480px.jpg"},
+{"name": "Roseate Spoonbill", "weight": "1200", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311367261-480px.jpg"},
+{"name": "Cerulean Warbler", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297038371-480px.jpg"},
+{"name": "Blue-winged Teal", "weight": "230", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60292801-480px.jpg"},
+{"name": "Short-billed Gull", "weight": "360", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/71314291-480px.jpg"},
+{"name": "California Thrasher", "weight": "78", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303894301-480px.jpg"},
+{"name": "Cave Swallow", "weight": "17", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311350771-480px.jpg"},
+{"name": "Black-chinned Hummingbird", "weight": "2", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303887411-480px.jpg"},
+{"name": "Cassin's Sparrow", "weight": "16", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/162795001-480px.jpg"},
+{"name": "Glaucous Gull", "weight": "1250", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303396771-480px.jpg"},
+{"name": "Black-chinned Sparrow", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/94256321-480px.jpg"},
+{"name": "Western Gull", "weight": "800", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303371381-480px.jpg"},
+{"name": "Pine Warbler", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64893901-480px.jpg"},
+{"name": "Magnolia Warbler", "weight": "6", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297040641-480px.jpg"},
+{"name": "Bufflehead", "weight": "272", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/216531741-480px.jpg"},
+{"name": "Gadwall", "weight": "500", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308742131-480px.jpg"},
+{"name": "Downy Woodpecker", "weight": "21", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/60397941-480px.jpg"},
+{"name": "Blue Grosbeak", "weight": "26", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67447361-480px.jpg"},
+{"name": "Arizona Woodpecker", "weight": "34", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297898541-480px.jpg"},
+{"name": "Mottled Duck", "weight": "876", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308743931-480px.jpg"},
+{"name": "Royal Tern", "weight": "390", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308468891-480px.jpg"},
+{"name": "American Woodcock", "weight": "116", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301561251-480px.jpg"},
+{"name": "Gray Vireo", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302231801-480px.jpg"},
+{"name": "Killdeer", "weight": "75", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301221881-480px.jpg"},
+{"name": "Great Cormorant", "weight": "2600", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/66026521-480px.jpg"},
+{"name": "Wandering Tattler", "weight": "60", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301789071-480px.jpg"},
+{"name": "Gray-cheeked Thrush", "weight": "26", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303679641-480px.jpg"},
+{"name": "Grace's Warbler", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297054451-480px.jpg"},
+{"name": "Nuttall's Woodpecker", "weight": "30", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297698041-480px.jpg"},
+{"name": "American Bittern", "weight": "370", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304465371-480px.jpg"},
+{"name": "Northern Goshawk", "weight": "631", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306057361-480px.jpg"},
+{"name": "Least Bittern", "weight": "46", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304476671-480px.jpg"},
+{"name": "White-faced Ibis", "weight": "450", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308512681-480px.jpg"},
+{"name": "White-throated Sparrow", "weight": "22", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64980371-480px.jpg"},
+{"name": "Orange-crowned Warbler", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296785521-480px.jpg"},
+{"name": "Allen's Hummingbird", "weight": "2", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304001991-480px.jpg"},
+{"name": "Acorn Woodpecker", "weight": "65", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64992871-480px.jpg"},
+{"name": "Ruddy Duck", "weight": "300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302124271-480px.jpg"},
+{"name": "Scaled Quail", "weight": "177", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296734001-480px.jpg"},
+{"name": "Canyon Towhee", "weight": "37", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64988761-480px.jpg"},
+{"name": "Least Sandpiper", "weight": "19", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301499501-480px.jpg"},
+{"name": "Olive Sparrow", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297624971-480px.jpg"},
+{"name": "Brown-crested Flycatcher", "weight": "44", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302060461-480px.jpg"},
+{"name": "Varied Thrush", "weight": "65", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303793391-480px.jpg"},
+{"name": "Bald Eagle", "weight": "3000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306062281-480px.jpg"},
+{"name": "Abert's Towhee", "weight": "42", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299670841-480px.jpg"},
+{"name": "Common Grackle", "weight": "74", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/307948931-480px.jpg"},
+{"name": "Harlequin Duck", "weight": "490", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/63898051-480px.jpg"},
+{"name": "Razorbill", "weight": "505", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302767751-480px.jpg"},
+{"name": "Solitary Sandpiper", "weight": "31", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301786351-480px.jpg"},
+{"name": "California Gnatcatcher", "weight": "5", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308526311-480px.jpg"},
+{"name": "Northern Harrier", "weight": "300", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305647471-480px.jpg"},
+{"name": "Iceland Gull", "weight": "820", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303386311-480px.jpg"},
+{"name": "Gila Woodpecker", "weight": "51", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64993561-480px.jpg"},
+{"name": "White-breasted Nuthatch", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/68039391-480px.jpg"},
+{"name": "Lesser Goldfinch", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306428101-480px.jpg"},
+{"name": "Lesser Black-backed Gull", "weight": "545", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299868811-480px.jpg"},
+{"name": "Brown Pelican", "weight": "2000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304463771-480px.jpg"},
+{"name": "Blue-headed Vireo", "weight": "13", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302314711-480px.jpg"},
+{"name": "Barn Swallow", "weight": "17", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/312652671-480px.jpg"},
+{"name": "Brandt's Cormorant", "weight": "1400", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/66025501-480px.jpg"},
+{"name": "Greater White-fronted Goose", "weight": "1951", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/59938311-480px.jpg"},
+{"name": "California Towhee", "weight": "37", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64989841-480px.jpg"},
+{"name": "White-eyed Vireo", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302146561-480px.jpg"},
+{"name": "Snowy Owl", "weight": "1600", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297365891-480px.jpg"},
+{"name": "Laysan Albatross", "weight": "2200", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67654621-480px.jpg"},
+{"name": "Northern Gannet", "weight": "2470", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/66025421-480px.jpg"},
+{"name": "Eastern Whip-poor-will", "weight": "43", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303989741-480px.jpg"},
+{"name": "Blackpoll Warbler", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64804711-480px.jpg"},
+{"name": "Pileated Woodpecker", "weight": "250", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311372981-480px.jpg"},
+{"name": "Yellow-billed Magpie", "weight": "150", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302393761-480px.jpg"},
+{"name": "Ringed Kingfisher", "weight": "140", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303691911-480px.jpg"},
+{"name": "Dunlin", "weight": "48", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301478601-480px.jpg"},
+{"name": "Willet", "weight": "200", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64838171-480px.jpg"},
+{"name": "Red-necked Phalarope", "weight": "27", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301571851-480px.jpg"},
+{"name": "Wilson's Warbler", "weight": "5", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297073391-480px.jpg"},
+{"name": "Wilson's Storm-Petrel", "weight": "28", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297603211-480px.jpg"},
+{"name": "Altamira Oriole", "weight": "47", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306365831-480px.jpg"},
+{"name": "Least Flycatcher", "weight": "8", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301828001-480px.jpg"},
+{"name": "Broad-winged Hawk", "weight": "265", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/71534291-480px.jpg"},
+{"name": "Lincoln's Sparrow", "weight": "17", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299637291-480px.jpg"},
+{"name": "Chipping Sparrow", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64972021-480px.jpg"},
+{"name": "White-rumped Sandpiper", "weight": "40", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301528301-480px.jpg"},
+{"name": "Sandwich Tern", "weight": "180", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/170561151-480px.jpg"},
+{"name": "Snowy Plover", "weight": "32", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297949771-480px.jpg"},
+{"name": "Red-throated Loon", "weight": "1250", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306758371-480px.jpg"},
+{"name": "Great Horned Owl", "weight": "910", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297363481-480px.jpg"},
+{"name": "Lesser Yellowlegs", "weight": "79", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301797021-480px.jpg"},
+{"name": "Townsend's Warbler", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297064161-480px.jpg"},
+{"name": "Ross's Goose", "weight": "1198", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/295421201-480px.jpg"},
+{"name": "Fox Sparrow", "weight": "26", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/66115301-480px.jpg"},
+{"name": "Wood Thrush", "weight": "40", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/170865181-480px.jpg"},
+{"name": "Black-backed Woodpecker", "weight": "61", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297690371-480px.jpg"},
+{"name": "Chestnut-backed Chickadee", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302487051-480px.jpg"},
+{"name": "Semipalmated Plover", "weight": "45", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301215411-480px.jpg"},
+{"name": "Northern Rough-winged Swallow", "weight": "10", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311350051-480px.jpg"},
+{"name": "Purple Finch", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/306333791-480px.jpg"},
+{"name": "Yellow Rail", "weight": "41", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303199631-480px.jpg"},
+{"name": "Cedar Waxwing", "weight": "32", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305837211-480px.jpg"},
+{"name": "Burrowing Owl", "weight": "150", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297386341-480px.jpg"},
+{"name": "American Robin", "weight": "77", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303441381-480px.jpg"},
+{"name": "Pinyon Jay", "weight": "90", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302351591-480px.jpg"},
+{"name": "Mallard", "weight": "1000", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308743051-480px.jpg"},
+{"name": "Chimney Swift", "weight": "17", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304087131-480px.jpg"},
+{"name": "Ovenbird", "weight": "16", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296753061-480px.jpg"},
+{"name": "Ruddy Turnstone", "weight": "84", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64811941-480px.jpg"},
+{"name": "Pied-billed Grebe", "weight": "253", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/304522011-480px.jpg"},
+{"name": "American Avocet", "weight": "275", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297916791-480px.jpg"},
+{"name": "Horned Lark", "weight": "28", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308603561-480px.jpg"},
+{"name": "Pomarine Jaeger", "weight": "521", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/308476091-480px.jpg"},
+{"name": "Yellow-throated Vireo", "weight": "15", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302241151-480px.jpg"},
+{"name": "Long-billed Curlew", "weight": "490", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/64810681-480px.jpg"},
+{"name": "Purple Martin", "weight": "45", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305535681-480px.jpg"},
+{"name": "Wilson's Snipe", "weight": "79", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301564811-480px.jpg"},
+{"name": "Eastern Phoebe", "weight": "16", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/311636371-480px.jpg"},
+{"name": "Olive Warbler", "weight": "11", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305865991-480px.jpg"},
+{"name": "Snail Kite", "weight": "360", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/305373191-480px.jpg"},
+{"name": "Upland Sandpiper", "weight": "97", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301229341-480px.jpg"},
+{"name": "Indigo Bunting", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297333661-480px.jpg"},
+{"name": "Sage Thrasher", "weight": "40", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/303814901-480px.jpg"},
+{"name": "Common Yellowthroat", "weight": "9", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297027971-480px.jpg"},
+{"name": "Cassin's Finch", "weight": "24", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/67283591-480px.jpg"},
+{"name": "Louisiana Waterthrush", "weight": "18", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/296755471-480px.jpg"},
+{"name": "Barrow's Goldeneye", "weight": "1075", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/302060441-480px.jpg"},
+{"name": "LeConte's Sparrow", "weight": "12", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/299350191-480px.jpg"},
+{"name": "Olive-sided Flycatcher", "weight": "28", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/301807021-480px.jpg"},
 {"name": "Palm Warbler", "weight": "7", "image_url": "https://www.allaboutbirds.org/guide/assets/photo/297049561-480px.jpg"}
+]
