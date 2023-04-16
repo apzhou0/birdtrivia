@@ -59,7 +59,7 @@ export default function App() {
     <div className="App">
       <img className="sparrowImg" src={sparrow} style={{opacity: mistakeCount > 0 ? 0.3 : 1}} />
       <img className="crowImg" src={crow} style={{opacity: mistakeCount > 1 ? 0.3 : 1}} /> 
-      <img className="gooseImg" src={goose} style={{opacity: mistakeCount > 2 ? 0.3 : 1}}/>
+      <img className="gooseImg" src={goose} style={{opacity: mistakeCount > 2 ? 0.3 : 1, transform: 'scaleX(-1)'}}/>
       <h1 className="score">
         score: {scoreCount}
         <span className="spacer"></span>
