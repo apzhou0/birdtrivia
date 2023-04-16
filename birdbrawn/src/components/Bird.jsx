@@ -9,18 +9,22 @@ function Bird ({id, name, weight, image, rightSpot, weightColor}) {
     width: "240px",
     height: "180px",
   };
-
   const weightStyle = {
     textAlign: "right",
     color: weightColor,
-    textShadow: "0 0 10px black",
     margin: "10px",
+  };
+  const redDot = {
+    backgroundColor: "red"
+  };
+  const greenDot = {
+    backgroundColor: "green"
   };
 
   return (
     <div className="Bird--tile" style={tileStyle}>
-      {rightSpot? <div className = "greendot"></div> : <div className = "reddot"></div>}
-      <h2 style = {weightStyle}>{weight} g</h2>
+      <div className="Bird--dot" style={rightSpot ? greenDot : redDot}></div>
+      <h2 style={weightStyle}>{weight} g</h2>
       <h1 className = "Bird--name">{name}</h1>
     </div>
   );
