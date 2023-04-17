@@ -2,18 +2,17 @@ import React from "react";
 
 function Bird ({id, name, weight, image, rightSpot, isPlaced}) {
   const weightStyle = {
-    fontSize: "20px",
-    textAlign: "right",
-    color: "white",
-    margin: "10px",
-    textShadow: "0 0 7px black"
+    backgroundColor: "#500404",
+  };
+  const nameStyle = {
+    backgroundColor: "#500404",
   };
 
   return (
     <div className="Bird--tile">
-      <div className="Bird--weightbox">{weight}</div>
+      <div className="Bird--weightbox" style={!rightSpot ? weightStyle : null}>{isPlaced && `${weight} g`}</div>
       <img className="Bird--image" src={image}/>
-      <h1 className = "Bird--namebox">{name}</h1>
+      <h1 className = "Bird--namebox" style={!rightSpot ? weightStyle : null}>{name}</h1>
     </div>
   );
 };

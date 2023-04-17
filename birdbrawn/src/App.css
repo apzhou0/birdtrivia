@@ -18,6 +18,10 @@ html {
   font-style: italic;
 }
 
+.highscore {
+  font-size: 22px;
+}
+
 .spacer {
   margin-right: 80px;
 }
@@ -25,10 +29,11 @@ html {
 .restartButton {
   font-family: 'Quicksand', serif;
   font-size: 40px;
-  margin-top: 99px;
-  letter-spacing: 4px;
-  width: 240px;
-  height: 185px;
+  margin-top: 140px;
+  letter-spacing: 3px;
+  padding: 10px 20px;
+  width: 250px;
+  height: 280px;
   background-color: #293738;
   color: white;
   text-shadow: 0 0 5px black;
@@ -39,7 +44,7 @@ html {
   left: 50%;
   transform: translate(-50%, -50%);
   cursor: pointer;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.5);
   font-style: italic;
   font-weight: bold;
 }
@@ -56,29 +61,32 @@ html {
   display: inline-block;
   cursor: pointer;
   overflow: hidden;
-  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.6);
+  filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 1));
 }
 
 .Bird--image {
+  display: block;
   width: 240px;
   height: 180px; 
   margin: 0;
   padding: 0;
-  border:none;
-  bottom: 0;
-  
+  border-radius: 20px 20px 0px 0px;
 }
 
 .Bird--namebox {
-  top: 0;
-  width: 240px;
+  width: 220px;
   height: 80px;
   background: #293738;
   border-radius: 0px 0px 20px 20px;
   color: white;
   margin: 0;
-  padding: 0;
-  border:none;
+  padding: 0px 10px; /* Add padding on left and right sides */
+  font-size: 18px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow-wrap: break-word;
 }
 
 .Bird--weightbox {

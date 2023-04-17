@@ -7,7 +7,7 @@ import crow from './assets/images/crow_green.png'
 import goose from './assets/images/goose_green.png'
 
 let processedIndices = new Set();
-let mistakeCount = 0;
+let lifeCount = 3;
 let scoreCount = 0;
 let highScore = 0;
 
@@ -38,13 +38,13 @@ export default function App() {
   const [birds, setBirds] = React.useState([getRandomBird()]);
   
   const tilePlaced = (event, newBird) => {
-    if (mistakeCount / 2 <= 3 && event.to.id === "birds") {
+    if (lifeCount > 0 && event.to.id === "birds") {
       setSingleTile([getRandomBird()]);
       setBirds((prevBirds) => {
         const sortedBirds = [...prevBirds].sort((a, b) => a.weight - b.weight);
         if (JSON.stringify(prevBirds) !== JSON.stringify(sortedBirds)) {
           newBird.rightSpot = false;
-          mistakeCount += 1;
+          lifeCount -= 1;
         }
         else {
           newBird.rightSpot = true;
@@ -57,19 +57,19 @@ export default function App() {
 
   return (
     <div className="App">
-      <img className="sparrowImg" src={sparrow} style={{opacity: mistakeCount > 0 ? 0.3 : 1}} />
-      <img className="crowImg" src={crow} style={{opacity: mistakeCount > 1 ? 0.3 : 1}} /> 
-      <img className="gooseImg" src={goose} style={{opacity: mistakeCount > 2 ? 0.3 : 1, transform: 'scaleX(-1)'}}/>
+      <img className="sparrowImg" src={sparrow} style={{opacity: lifeCount > 2 ? 1 : 0.3}} />
+      <img className="crowImg" src={crow} style={{opacity: lifeCount > 1 ? 1 : 0.3}} /> 
+      <img className="gooseImg" src={goose} style={{opacity: lifeCount > 0 ? 1 : 0.3, transform: 'scaleX(-1)'}}/>
       <h1 className="score">
         score: {scoreCount}
         <span className="spacer"></span>
-        best: {highScore}
+        lives: {lifeCount}
       </h1>
-      {mistakeCount === 4 && <button className="restartButton" onClick={resetGame}>restart</button>}
+      {lifeCount < 1 && <button className="restartButton" onClick={resetGame}>restart<p className="highscore"><div style={{ height: "20px" }}></div>high score: {highScore}</p></button>}
       <div style={{ height: "200px" }}>
       <BirdList id="singleTile" list={singleTile} setList={setSingleTile} group="shared" onEnd={(event) => tilePlaced(event, singleTile[0])} />
       </div>
-      <div style={{height: "50px"}}></div>
+      <div style={{height: "110px"}}></div>
       <BirdList id="birds" list={birds} setList={setBirds} group="shared"/>
     </div>
   );
