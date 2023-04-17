@@ -19,7 +19,7 @@ export default function App() {
     setSingleTile([getRandomBird()]);
     setBirds([getRandomBird()]);
     highScore = Math.max(highScore, scoreCount);
-    mistakeCount = 0;
+    lifeCount = 3;
     scoreCount = 0;
   }
 
