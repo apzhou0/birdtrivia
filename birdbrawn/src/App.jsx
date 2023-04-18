@@ -7,20 +7,21 @@ import crow from './assets/images/crow_green.png'
 import goose from './assets/images/goose_green.png'
 
 let processedIndices = new Set();
-let lifeCount = 3;
-let scoreCount = 0;
-let highScore = 0;
 
 export default function App() {
   const shuffledBirds = bird_data;
+  const [singleTile, setSingleTile] = React.useState([getRandomBird()]);
+  const [birds, setBirds] = React.useState([getRandomBird()]);
+  const [scoreCount, setScoreCount] = React.useState(0);
+  const [highScore, setHighScore] = React.useState(0);
+  const [lifeCount, setLifeCount] = React.useState(3);
 
   const resetGame = () => {
     processedIndices = new Set();
     setSingleTile([getRandomBird()]);
     setBirds([getRandomBird()]);
-    highScore = Math.max(highScore, scoreCount);
-    lifeCount = 3;
-    scoreCount = 0;
+    setScoreCount(0);
+    setLifeCount(3);
   }
 
   function getRandomBird() {
@@ -33,9 +34,6 @@ export default function App() {
     const newBird = {id: randomIndex, name: randomBird.name, weight: randomBird.weight, image: randomBird.image_url, rightSpot: true};
     return newBird;
   }
-
-  const [singleTile, setSingleTile] = React.useState([getRandomBird()]);
-  const [birds, setBirds] = React.useState([getRandomBird()]);
   
   const tilePlaced = (event, newBird) => {
     if (lifeCount > 0 && event.to.id === "birds") {
@@ -44,11 +42,12 @@ export default function App() {
         const sortedBirds = [...prevBirds].sort((a, b) => a.weight - b.weight);
         if (JSON.stringify(prevBirds) !== JSON.stringify(sortedBirds)) {
           newBird.rightSpot = false;
-          lifeCount -= 1;
+          setLifeCount(lifeCount-1);
         }
         else {
           newBird.rightSpot = true;
-          scoreCount += 1
+          setScoreCount(scoreCount+1);
+          setHighScore(Math.max(scoreCount, highScore));
         }
         return sortedBirds;
       });
