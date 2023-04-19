@@ -47,7 +47,7 @@ export default function App() {
         else {
           newBird.rightSpot = true;
           setScoreCount(scoreCount+1);
-          setHighScore(Math.max(scoreCount, highScore));
+          setHighScore(Math.max(scoreCount+1, highScore));
         }
         return sortedBirds;
       });
